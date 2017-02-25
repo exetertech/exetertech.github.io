@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 17,
+    "uniqCompNum": 12,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/ets-logo2-128x128.png",
     "noImageResize": "",
@@ -51,18 +51,18 @@
             "timeout": 5,
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "Exeter Technical Support",
+                "title": "TExeter Technical Support",
                 "showText": true,
                 "text": "Local Computer Repair Experts",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#content5-e\" data-toolbar=\"-mbrBtnMove\">Contact Us</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">About Us</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Services</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contact Us</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">About Us</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Services</a>"
               },
               {
                 "active": false,
@@ -79,7 +79,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Book Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Terms of Service</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -136,35 +136,27 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x401.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
-          "title1": "Make a Booking",
-          "subtitle1": "Arrange an Engineer Visit",
-          "caption1": "<br>Click More and contact us now to arrange an appointment with an engineer, We are based in Exeter and cover the local area for general computer and mobile device support. Send us a message with any queries, even if you don't see a service listed for the problem you are having, we will let you know if we can help.<br>",
+          "title1": "Viruses/Malware",
+          "subtitle1": "Support and Advice",
+          "caption1": "We understand how vital your personal information is, especially when relying on a computer for work or business. Our engineers provide a service to remove malware/viruses and to prevent possible future infections. If you are using your computer on the internet, it is important to be well protected.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
-          "title2": "Device Set Up<br>",
-          "subtitle2": "Professional Installation",
-          "caption2": "Leave your new device in our capable hands and we will professionally install to your requirements. We will also connect it to existing devices you currently own, for example printers or sound systems. Includes Windows and Mac computers as well as most mobile devices.<br><br><br>",
+          "title2": "Make a Booking",
+          "subtitle2": "Arrange an Engineer Visit",
+          "caption2": "Click More and contact us now to arrange an appointment with an engineer, We are based in Exeter and cover the local area for general computer and mobile device support. Send us a message with any queries, even if you don't see a service listed for the problem you are having, we will let you know if we can help.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -174,25 +166,21 @@
               "active": true
             }
           },
-          "title3": "&nbsp;General Tune Up",
-          "subtitle3": "Other Issues",
-          "caption3": "If your computer is just running slowly or you are experiencing general problems without a clear cause, we provide a general \"Tune Up\" to resolve a wide range of issues. This will involve diagnosing the problem initially, with an at home visit, and providing a suitable solution there and then. Our basic Tune up is £25 and our advanced Tune up is £30.&nbsp;",
+          "title3": "Device Set Up",
+          "subtitle3": "Professional Installation",
+          "caption3": "Leave your new device in our capable hands and we will professionally install to your requirements. We will also connect it to existing devices you currently own, for example printers or sound systems. Includes Windows and Mac computers as well as most mobile devices.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-3-600x400.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
-          "title4": "Viruses/Malware",
-          "subtitle4": "Support and Advice",
-          "caption4": "We understand how vital your personal information is, especially when relying on a computer for work or business. Our engineers provide a service to remove malware/viruses and to prevent possible future infections. If you are using your computer on the internet, it is important to be well protected.<br><br><br>",
+          "title4": "General Tune Up",
+          "subtitle4": "Other Issues",
+          "caption4": "If your computer is just running slowly or you are experiencing general problems without a clear cause, we provide a general \"Tune Up\" to resolve a wide range of issues. This will involve diagnosing the problem initially, with an at home visit, and providing a suitable solution there and then. Our basic Tune up is&nbsp;£25 and our advanced Tune up is&nbsp;£30.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
@@ -220,36 +208,75 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "content5",
-          "_anchor": "content5-e",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-8-2000x1333.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Abanoub S.",
+              "authorBio": "User"
             },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#000",
+            {
+              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Suffian A.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Jhollman C.",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials1-5",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "count": 3,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
             "showTitle": true,
-            "showCaption": true
+            "showSubtitle": true
           },
-          "title": "Contact Us",
-          "caption": ""
+          "title": "WHAT OUR FANTASTIC USERS SAY",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
         },
         {
           "_tags": [
@@ -258,8 +285,8 @@
           "_name": "contacts2",
           "_anchor": "contacts2-8",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "1",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -276,7 +303,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>17 Marcus House<br>Exeter<br>EX4 4JN<br><br><br>",
-          "text2": "<strong>Social</strong><ul><li><a href=\"https://twitter.com/ExeterTechnical\" target=\"_blank\">Twitter</a></li><li><a href=\"https://www.facebook.com/exetertechnicalsupport/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://www.google.co.uk/maps/place/Exeter+Technical+Support/@50.727159,-3.6741835,11z/data=!3m1!4b1!4m5!3m4!1s0x486da4385339d239:0xc0cbe1381654d9c7!8m2!3d50.7272433!4d-3.5341011\" target=\"_blank\">Google Reviews</a></li></ul>"
+          "text2": "<strong>Links</strong><ul><li><a href=\"https://twitter.com/ExeterTechnical\" target=\"_blank\">Twitter</a></li><li><a href=\"https://www.facebook.com/exetertechnicalsupport/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://www.google.co.uk/maps/place/Exeter+Technical+Support/@50.727159,-3.6741835,11z/data=!3m1!4b1!4m5!3m4!1s0x486da4385339d239:0xc0cbe1381654d9c7!8m2!3d50.7272433!4d-3.5341011\" target=\"_blank\">Google Reviews</a></li></ul>"
         },
         {
           "_tags": [
@@ -360,7 +387,7 @@
               "color": "#c1c1c1"
             }
           },
-          "text2": "07746 139379 or 07898 977774",
+          "text2": "07746139379 or 07898 977774",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts3",
@@ -384,7 +411,7 @@
           },
           "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\">support@exetertechnicalsupport.co.uk</a>",
           "title1": "<span style=\"font-weight: normal;\">Categories</span>",
-          "text5": "<p></p><li>Terms and Conditions</li><li>News and Advice</li><li>Store</li><li>Testimonials</li><br><br><p></p>",
+          "text5": "<p></p><li>Terms and Conditions</li><li>News and Advice</li><li>Store</li><li>Reviews</li><br><p></p>",
           "text6": "",
           "form": {
             "title": "MESSAGE",
@@ -518,179 +545,6 @@
           "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\">support@exetertechnicalsupport.co.uk</a>",
           "title1": "<span style=\"font-weight: normal;\">Categories</span>",
           "text5": "<p></p><li>Terms and Conditions</li><li>News and Advice</li><li>Store</li><li>Reviews</li><br><p></p>",
-          "text6": "",
-          "form": {
-            "title": "MESSAGE",
-            "action": "support@exetertechnicalsupport.co.uk",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
-        }
-      ]
-    },
-    "Terms.html": {
-      "settings": {
-        "title": "Terms and Conditions",
-        "meta_descr": ""
-      },
-      "components": [
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_anchor": "contacts2-f",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C",
-            "googleMap": {
-              "address": "17 Marcus House, EX4 4JN",
-              "placeId": "ChIJO_6rrDmkbUgRCfL10KJ3iqg",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "text1": "<strong>Address</strong><br>17 Marcus House<br>Exeter<br>EX4 4JN<br><br><br>",
-          "text2": "<strong>Social</strong><ul><li><a href=\"https://twitter.com/ExeterTechnical\" target=\"_blank\">Twitter</a></li><li><a href=\"https://www.facebook.com/exetertechnicalsupport/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://www.google.co.uk/maps/place/Exeter+Technical+Support/@50.727159,-3.6741835,11z/data=!3m1!4b1!4m5!3m4!1s0x486da4385339d239:0xc0cbe1381654d9c7!8m2!3d50.7272433!4d-3.5341011\" target=\"_blank\">Google Reviews</a></li></ul>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_styles": {
-            ".list-group-text": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#c1c1c1"
-            },
-            "STRONG": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "16px",
-              "text-align": "left"
-            },
-            "H4": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#ffffff",
-              "font-size": "14px"
-            },
-            "P": {
-              "color": "#ffffff",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "14px"
-            },
-            "SPAN": {
-              "font-size": "14px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            }
-          },
-          "_anchor": "contacts3-g",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/etslogo-265x165.png",
-              "class": "card-img-top",
-              "width": 265,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "linkInNewWindow": false,
-              "name": "letter",
-              "family": "MobiriseIcons",
-              "link": "",
-              "size": "30",
-              "active": true,
-              "color": "#c1c1c1",
-              "newWindow": false
-            }
-          },
-          "text1": "<span style=\"line-height: 1.5;\">Contact Us</span><span style=\"line-height: 1.5;\"><br></span><br>",
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont-company-contacts3",
-              "linkInNewWindow": false,
-              "name": "phone",
-              "family": "et-line",
-              "active": true,
-              "size": "24",
-              "color": "#c1c1c1"
-            }
-          },
-          "text2": "07746 139379 or 07898 977774",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont-company-contacts3",
-              "linkInNewWindow": false,
-              "name": "map-pin",
-              "family": "et-line",
-              "active": true,
-              "size": "24"
-            }
-          },
-          "text3": "17 Marcus House, Exeter, EX4 4JN",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont-company-contacts3",
-              "linkInNewWindow": false,
-              "name": "envelope",
-              "family": "et-line",
-              "active": true,
-              "size": "24"
-            }
-          },
-          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\">support@exetertechnicalsupport.co.uk</a>",
-          "title1": "<span style=\"font-weight: normal;\">Categories</span>",
-          "text5": "<p></p><li>Terms and Conditions</li><li>News and Advice</li><li>Store</li><li>Testimonials</li><br><br><p></p>",
           "text6": "",
           "form": {
             "title": "MESSAGE",
