@@ -494,6 +494,9 @@ h6,
 #content5-e p {
   color: #fff;
 }
+#content5-e .mbr-section-title {
+  text-align: center;
+}
 #contacts3-b .list-group-text {
   font-family: 'Lato', sans-serif;
   color: #c1c1c1;
@@ -526,6 +529,13 @@ h6,
 
 #content2-11 P {
   text-align: center;
+}
+#msg-box2-1l .mbr-section-title {
+  color: #fff;
+  text-align: left;
+}
+#msg-box2-1l .mbr-section-subtitle {
+  color: #a0a0a0;
 }
 #contacts3-6 .list-group-text {
   font-family: 'Lato', sans-serif;

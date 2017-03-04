@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ETS, Google drive",
-    "currentPage": "index.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 51,
+    "uniqCompNum": 58,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/ets-logo2-128x128.png",
     "noImageResize": "",
@@ -145,7 +145,7 @@
             "timeout": "7",
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=ys7IUdvFhpU",
@@ -174,7 +174,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Services.html\" data-toolbar=\"-mbrBtnMove\">Book Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Terms.html\" data-toolbar=\"-mbrBtnMove\">Terms of Service</a>"
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/mbr-2000x1364.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -322,6 +322,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
             }
           },
           "_tags": [
@@ -535,7 +538,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#7ba7bf",
+            "bgColor": "#ed7f6d",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -570,6 +573,45 @@
             "bgColor": "#fff"
           },
           "text": "<blockquote><p>We are an IT support company based in the heart of Devon, providing services for customers in Exeter and its surrounding areas.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">As well as providing repair services, we also run local training classes and post regular articles about the world of technology.</span></p><p>See our News and Advice section for more information</p><p><br></p><p>We have many years of technical experience, having provided IT support for businesses such as Toshiba, John Lewis and Asus.&nbsp;</p><p>Our aim is to provide an effective, affordable support service for home devices and to expand throughout the Southwest.</p></blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-1l",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": false,
+            "showTitle": true,
+            "showText": false
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
+          "title": "TRENDY WEBSITE BLOCKS",
+          "text": ""
         },
         {
           "_tags": [
