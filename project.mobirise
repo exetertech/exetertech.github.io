@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ETS, Google drive",
-    "currentPage": "index",
+    "currentPage": "other",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -43,7 +43,8 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#fafafa"
             }
           },
           "_tags": [
@@ -91,6 +92,11 @@
             "Theme"
           ],
           "_name": "features2",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          },
           "_anchor": "features2-27",
           "_params": {
             "columnsColor": "#2e2e2e",
@@ -201,12 +207,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_inherit": "features1",
@@ -214,6 +215,11 @@
             "Theme"
           ],
           "_name": "features2",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          },
           "_anchor": "features2-28",
           "_params": {
             "columnsColor": "#2e2e2e",
@@ -324,17 +330,18 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#fafafa"
+            },
+            "P": {
+              "color": "#fafafa"
             }
           },
           "_tags": [
@@ -607,6 +614,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#fafafa"
             }
           },
           "_tags": [
@@ -656,6 +666,11 @@
             "Theme"
           ],
           "_name": "features2",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          },
           "_anchor": "features2-2c",
           "_params": {
             "columnsColor": "#2e2e2e",
@@ -766,17 +781,18 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#fafafa"
+            },
+            "P": {
+              "color": "#fafafa"
             }
           },
           "_tags": [
@@ -1143,6 +1159,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#fafafa"
             }
           },
           "_tags": [
@@ -1191,6 +1210,14 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "form1-2o",
           "_params": {
             "labelsColor": "#ffffff",
@@ -1236,15 +1263,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
         },
         {
           "_tags": [
@@ -1359,6 +1378,12 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#fafafa"
+            },
+            "P": {
+              "color": "#fafafa"
             }
           },
           "_tags": [
@@ -1631,6 +1656,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#fafafa"
             }
           },
           "_tags": [
@@ -1666,18 +1694,18 @@
             "Theme"
           ],
           "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "content2-1a",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>We provide many services for Desktop Computers. See below for price guides and popular services. Please feel free to contact us if you need help with something that isn't listed.</p><p>All of our prices are flat fees. We do not charge by the hour and we do not have a \"call out fee\". See our <a href=\"Terms\">terms and conditions</a> for more details, including our full terms of service and privacy policy.</p></blockquote>",
-          "_styles": {
-            "BLOCKQUOTE": {
-              "text-align": "left"
-            }
-          }
+          "text": "<blockquote><p>We provide many services for Desktop Computers. See below for price guides and popular services. Please feel free to contact us if you need help with something that isn't listed.</p><p>All of our prices are flat fees. We do not charge by the hour and we do not have a \"call out fee\". See our <a href=\"Terms\">terms and conditions</a> for more details, including our full terms of service and privacy policy.</p></blockquote>"
         },
         {
           "_inherit": "features1",
@@ -1928,6 +1956,12 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#fafafa"
+            },
+            "P": {
+              "color": "#fafafa"
             }
           },
           "_tags": [
@@ -1940,7 +1974,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-30-2000x13332.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-30-2000x13330.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2467,6 +2501,12 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#fafafa"
+            },
+            ".lead P": {
+              "color": "#fafafa"
             }
           },
           "_tags": [
@@ -2695,14 +2735,14 @@
           "title1": "Bootstrap 4",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Desktop Computer</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"desktop\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Desktop Computer</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-12-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "laptop",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -2711,7 +2751,7 @@
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Laptop</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"laptop\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Laptop</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-21-600x400.jpg",
@@ -2727,14 +2767,14 @@
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Mobile Device</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"mobile\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Mobile Device</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-22-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "other",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -2743,7 +2783,7 @@
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Other</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"other\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Other</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -2899,6 +2939,12 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#fafafa"
+            },
+            "P": {
+              "color": "#fafafa"
             }
           },
           "_tags": [
@@ -3915,7 +3961,7 @@
               "color": "#000"
             },
             ".lead P": {
-              "color": "#ffffff"
+              "color": "#f5f5f5"
             }
           },
           "_tags": [
@@ -4072,7 +4118,7 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fff"
+              "color": "#f5f5f5"
             },
             ".mbr-section-subtitle": {
               "color": "#a0a0a0"

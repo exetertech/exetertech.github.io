@@ -429,6 +429,7 @@ h6,
 }
 #content5-24 .mbr-section-title {
   text-align: center;
+  color: #fafafa;
 }
 #features2-27 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
@@ -439,6 +440,12 @@ h6,
 #content5-25 .mbr-section-title,
 #content5-25 p {
   color: #fff;
+}
+#content5-25 .mbr-section-title {
+  color: #fafafa;
+}
+#content5-25 P {
+  color: #fafafa;
 }
 #contacts3-1z .list-group-text {
   font-family: 'Lato', sans-serif;
@@ -538,12 +545,21 @@ h6,
 #msg-box8-2a p {
   color: #fff;
 }
+#msg-box8-2a .mbr-section-title {
+  color: #fafafa;
+}
 #features2-2c .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
 #content5-29 .mbr-section-title,
 #content5-29 p {
   color: #fff;
+}
+#content5-29 .mbr-section-title {
+  color: #fafafa;
+}
+#content5-29 P {
+  color: #fafafa;
 }
 #contacts3-20 .list-group-text {
   font-family: 'Lato', sans-serif;
@@ -707,6 +723,9 @@ h6,
 #msg-box8-2i p {
   color: #fff;
 }
+#msg-box8-2i .mbr-section-title {
+  color: #fafafa;
+}
 #form1-2o .form-control-label {
   color: #ffffff;
 }
@@ -716,6 +735,12 @@ h6,
 #content5-2l .mbr-section-title,
 #content5-2l p {
   color: #fff;
+}
+#content5-2l .mbr-section-title {
+  color: #fafafa;
+}
+#content5-2l P {
+  color: #fafafa;
 }
 #contacts3-23 .list-group-text {
   font-family: 'Lato', sans-serif;
@@ -815,6 +840,9 @@ h6,
 #msg-box8-17 p {
   color: #fff;
 }
+#msg-box8-17 .mbr-section-title {
+  color: #fafafa;
+}
 #content2-1a BLOCKQUOTE {
   text-align: left;
 }
@@ -827,6 +855,12 @@ h6,
 #content5-1e .mbr-section-title,
 #content5-1e p {
   color: #fff;
+}
+#content5-1e .mbr-section-title {
+  color: #fafafa;
+}
+#content5-1e P {
+  color: #fafafa;
 }
 #contacts3-16 .list-group-text {
   font-family: 'Lato', sans-serif;
@@ -1020,6 +1054,12 @@ h6,
 #msg-box8-2f p {
   color: #fff;
 }
+#msg-box8-2f .mbr-section-title {
+  color: #fafafa;
+}
+#msg-box8-2f .lead P {
+  color: #fafafa;
+}
 #features4-l .card-subtitle {
   color: #bcbcbc;
 }
@@ -1040,6 +1080,12 @@ h6,
 #content5-2g .mbr-section-title,
 #content5-2g p {
   color: #fff;
+}
+#content5-2g .mbr-section-title {
+  color: #fafafa;
+}
+#content5-2g P {
+  color: #fafafa;
 }
 #contacts3-i .list-group-text {
   font-family: 'Lato', sans-serif;
@@ -1342,13 +1388,13 @@ h6,
   color: #000;
 }
 #msg-box3-1y .lead P {
-  color: #ffffff;
+  color: #f5f5f5;
 }
 #features1-2 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
 #form2-1v .mbr-section-title {
-  color: #fff;
+  color: #f5f5f5;
 }
 #form2-1v .mbr-section-subtitle {
   color: #a0a0a0;
