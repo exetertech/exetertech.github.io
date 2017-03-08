@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ETS, Google drive",
-    "currentPage": "other",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 98,
+    "uniqCompNum": 133,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/ets-logo2-128x128.png",
     "noImageResize": "",
@@ -31,7 +31,7 @@
     "google-analytics": ""
   },
   "pages": {
-    "laptop": {
+    "laptop.html": {
       "settings": {
         "title": "Laptop Services",
         "meta_descr": "Laptop Services"
@@ -84,7 +84,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>We provide many services for Laptops. See below for price guides and popular services. Please feel free to contact us if you need help with something that isn't listed.</p><p>All of our prices are flat fees. We do not charge by the hour and we do not have a \"call out fee\". See our <a href=\"Terms\">terms and conditions</a> for more details, including our full terms of service and privacy policy.</p></blockquote>"
+          "text": "<blockquote><p>We provide many services for Laptops. See below for price guides and popular services. Please feel free to contact us if you need help with something that isn't listed.</p><p>All of our prices are flat fees. We do not charge by the hour and we do not have a \"call out fee\". See our <a href=\"Terms.html\">terms and conditions</a> for more details, including our full terms of service and privacy policy.</p></blockquote>"
         },
         {
           "_inherit": "features1",
@@ -128,14 +128,15 @@
               "name": "laptop",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title1": "Laptop Setup - £30",
           "subtitle1": "Installation",
           "caption1": "We provide a service to set up your laptop. This will include an in person consultation on site to confirm your preferences for setup and includes laptops than run both Windows and Mac OS X.<br><br>This service includes:<br><br>- An onsite visit from an engineer where we will unpack and install your computer safely and securely.<br><br>- Connection to an existing broadband network.<br><br>- Reasonable device connection. We can connect your new computer to a reasonable amount of personal devices you have at your home. (For example printers and bluetooth speakers)<br><br>- Basic software setup. We will get you started with the necessary programs that you require. (For example web browsers, media/imaging applications and security software)<br><br><br>Estimated time of Service: 1 to 2 Hours<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"laptop.html#contacts3-1z\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
@@ -143,14 +144,15 @@
               "name": "refresh",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title2": "Virus &amp; Malware Removal - £30",
           "subtitle2": "Cleanup",
           "caption2": "We can help to remove Malware (malicious software) from your computer. This includes Viruses, Worms, Trojans, and generally harmful software that infects your computer system.<br><br>If you are finding a lot of popups adverts appearing, your computer is generally running slowly, or you are receiving a high amount of \"spam\" emails, you may have some sort of malware.  We can use a variety of methods to remove this and help prevent future infections.<br><br>This Service includes:<br><br>- An onsite visit from an engineer to diagnose and inspect your computer<br><br>- Removal of unwanted software or programs, possibly including a full reset of the system<br><br>- Implementation of prevention methods to help reduce the chance of similar issues in the future<br><br>Estimated time of Service: 1 to 2 Hours<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"laptop.html#contacts3-1z\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
@@ -158,14 +160,15 @@
               "name": "download",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title3": "Data Transfer/Backup - £30",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "We can transfer up to 2 terabytes of data from one device to another, or from one device to an external drive.<br><br>We will provide a portable storage device to carry the data if required.<br><br>This Service includes:<br><br>- An onsite visit from an engineer to transfer or backup the required data. We will stay to ensure the data has been successfully moved<br><br>All Customers using the data backup and recovery services must sign a disclaimer stating we will not be liable for any data loss. Every precaution will be taken to avoid the unlikely event of data loss but it is the customers responsibility to ensure there are no problems with the hard drive, computer port or connecting cables that may result in any potential issues.<br><br><br><br><br>Estimated time of Service: 1 Hour<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"laptop.html#contacts3-1z\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "media4": {
             "iconFont": {
               "active": true,
@@ -251,14 +254,15 @@
               "name": "to-local-drive",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title1": "Data Recovery - £50",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "If you are unable to access your files or have had hard drive issues, your Windows or Mac operating system may be unable to read hard drive data. In many cases we can help recover your important documents.<br><br>Depending on the severity of the issue, there are various ways to potentially save your data. <br><br>This Service Includes:<br><br>- An onsite visit from an engineer to inspect and diagnose the issue. <br><br>- Data recovery<br><br>It's important to bear in mind that this is a basic data recovery service and there are more extensive services out there, provided by forensic experts but these will be considerably more expensive.<br><br>No recovery - No fee. (£20 Inspection fee may still apply, see terms and conditions)<br><br>Estimated time of Service: 1 to 2 Hours<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"laptop.html#contacts3-1z\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
@@ -266,14 +270,15 @@
               "name": "cursor-click",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title2": "General Tuneup - £30",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "If your computer is running slowly or you are experiencing general problems without a clear cause, we provide a general \"Tune Up\" to resolve a wide range of issues. This will involve diagnosing the problem initially, with an at home visit, and providing a suitable solution there and then.<br><br>This Service Includes:<br><br>- An onsite inspection and diagnosis of the problem<br><br>- A general tune up of the device<br><br>- Use of prevention techniques to help reduce the chance of further issues<br><br><br><br><br><br><br>Estimated time of Service: 1 to 2 Hours<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"laptop#content5-25\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"laptop.html#contacts3-1z\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
@@ -281,14 +286,15 @@
               "name": "setting3",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title3": "Screen Replacement - Starting from £60 + parts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Broken or cracked screen? We can replace it and reinstall a new display.<br><br>Please let us know the make and model of your laptop and details of any damage that has been sustained<br><br>This Service Includes:<br><br>- Inspection and diagnosis of the damage and hardware<br><br>- Replacement of the screen<br><br>- Post repair hardware check and display driver installation<br><br>Some damage may cause the display to be irreparable. In this situation we will let you know and you will not be charged for the full service.<br><br><br><br><br><br>Estimated time of Service: 2-3 Hours<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"laptop.html#contacts3-1z\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "media4": {
             "iconFont": {
               "active": true,
@@ -476,7 +482,7 @@
           },
           "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\">support@exetertechnicalsupport.co.uk</a>",
           "title1": "<span style=\"font-weight: normal;\">Categories</span>",
-          "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li>Testimonials</li><br><br><p></p>",
+          "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
           "text6": "",
           "form": {
             "title": "MESSAGE",
@@ -506,7 +512,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
         },
         {
           "_inherit": "menu",
@@ -599,12 +605,12 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"about#contacts3-6\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
         }
       ]
     },
-    "mobile": {
+    "mobile.html": {
       "settings": {
         "title": "Mobile Device Services",
         "meta_descr": "Mobile Device Services"
@@ -658,7 +664,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>We provide many services for Mobile Devices including smartphones and tablets. See below for price guides and popular services. Please feel free to contact us if you need help with something that isn't listed.</p><p>All of our prices are flat fees. We do not charge by the hour and we do not have a \"call out fee\". See our <a href=\"Terms\">terms and conditions</a> for more details, including our full terms of service and privacy policy.</p></blockquote>"
+          "text": "<blockquote><p>We provide many services for Mobile Devices including smartphones and tablets. See below for price guides and popular services. Please feel free to contact us if you need help with something that isn't listed.</p><p>All of our prices are flat fees. We do not charge by the hour and we do not have a \"call out fee\". See our <a href=\"Terms.html\">terms and conditions</a> for more details, including our full terms of service and privacy policy.</p></blockquote>"
         },
         {
           "_inherit": "features1",
@@ -671,7 +677,7 @@
               "background-color": "#2e2e2e"
             }
           },
-          "_anchor": "features2-2c",
+          "_anchor": "features2-2q",
           "_params": {
             "columnsColor": "#2e2e2e",
             "paddingTop": 2,
@@ -691,6 +697,135 @@
             "columns": "3",
             "showImages": true,
             "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "devices",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title1": "Mobile Device Setup - £30",
+          "subtitle1": "Tablets, Phones, Smart watches",
+          "caption1": "We provide a service to set up your mobile phone or tablet. This will include an in person consultation on site to confirm your preferences for setup and includes devices than run Windows, Android and iOS. We cover iPads, Surface tablets, smartphones and many more.<br><br>This service includes:<br><br>- An onsite visit from an engineer<br><br>- Connection to an existing broadband network.<br><br>- Reasonable device connection. We can connect your device to a reasonable amount of personal devices you have at your home. (For example printers and bluetooth speakers)<br><br>- Basic software setup. We will get you started with the necessary programs that you require. (For example web browsers, media/imaging applications and security software)<br><br><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1rem; line-height: 1.5;\">Estimated time of Service: 1 to 2 Hours</span><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"mobile.html#contacts3-20\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "mobile",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title2": "Screen Replacements",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Starting from £50. Please let us know the make and model of your phone, using the contact form below and the extent of any damage sustained, such as a cracked screen. All prices are for screen replacements only, any further issues caused by damage etc would need to be addressed separately.&nbsp;<br><br>Particular phone repair costs can vary, so please contact us with the aforementioned details if you have a different model of phone that you require a screen replacement for.<br><br><br><br><br><br><br><br><br><br><br><br><span style=\"font-size: 1rem; line-height: 1.5;\">Estimated time of Service: 7 to 10 Working Days (Dependant on arrival of replacement parts)</span><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"MobileScreenRepair.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a> <a data-app-btn=\"true\" href=\"mobile.html#contacts3-20\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "upload",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title3": "Data Transfer/Backup -  £30",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "We can transfer up to 2 terabytes of data from one device to another, or from one device to an external drive.<br><br>We will provide a portable storage device to carry the data if required.<br><br>This Service includes:<br><br>- An onsite visit from an engineer to transfer or backup the required data. We will stay to ensure the data has been successfully moved<br><br>All Customers using the data backup and recovery services must sign a disclaimer stating we will not be liable for any data loss. Every precaution will be taken to avoid the unlikely event of data loss but it is the customers responsibility to ensure there are no problems with the hard drive, device ports or connecting cables that may result in any potential issues.<br><br><br><br><br><span style=\"font-size: 1rem; line-height: 1.5;\">Estimated time of Service: 1 Hour</span><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"mobile.html#contacts3-20\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "features1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features2",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "features2-2c",
+          "_params": {
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "2",
+            "showImages": true,
+            "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": true
@@ -702,14 +837,15 @@
               "name": "devices",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false
             }
           },
-          "title1": "Mobile Device Setup - £30",
+          "title1": "General Tune Up £30<br><br>&nbsp;",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "We provide a service to set up your mobile phone or tablet. This will include an in person consultation on site to confirm your preferences for setup and includes devices than run Windows, Android and iOS. We cover iPads, Surface tablets, smartphones and many more.<br><br>This service includes:<br><br>- An onsite visit from an engineer<br><br>- Connection to an existing broadband network.<br><br>- Reasonable device connection. We can connect your device to a reasonable amount of personal devices you have at your home. (For example printers and bluetooth speakers)<br><br>- Basic software setup. We will get you started with the necessary programs that you require. (For example web browsers, media/imaging applications and security software)<br><br><br>Estimated time of Service: 1 to 2 Hours<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
+          "caption1": "If your device is running slowly or you are experiencing general problems without a clear cause, we provide a general \"Tune Up\" to resolve a wide range of issues. This will involve diagnosing the problem initially, with an at home visit, and providing a suitable solution there and then.<br><br>This Service Includes:<br><br>- An onsite inspection and diagnosis of the problem<br><br>- A general tune up of the device<br><br>- Use of prevention techniques to help reduce the chance of further issues<br><br><br><br><span style=\"font-size: 1rem; line-height: 1.5;\">Estimated time of Service: 1 to 2 Hours</span><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"mobile.html#contacts3-20\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
@@ -717,14 +853,15 @@
               "name": "download",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false
             }
           },
-          "title2": "Data Transfer/Backup - &nbsp;£30",
+          "title2": "Data Recovery <br>Basic Recovery: &nbsp;£50<br><span style=\"color: inherit; font-size: 1.25rem; letter-spacing: -1px; line-height: 1.2825;\">Advanced recovery: £100</span><br>",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "We can transfer up to 2 terabytes of data from one device to another, or from one device to an external drive.<br><br>We will provide a portable storage device to carry the data if required.<br><br>This Service includes:<br><br>- An onsite visit from an engineer to transfer or backup the required data. We will stay to ensure the data has been successfully moved<br><br>All Customers using the data backup and recovery services must sign a disclaimer stating we will not be liable for any data loss. Every precaution will be taken to avoid the unlikely event of data loss but it is the customers responsibility to ensure there are no problems with the hard drive, device ports or connecting cables that may result in any potential issues.<br><br><br><br><br>Estimated time of Service: 1 Hour<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption2": "<br>If you are unable to access your files or have had hard drive issues, your operating system may be unable to read drive data. In many cases we can help recover your important documents. <br><br>Depending on the severity of the issue, there are various ways to potentially recover data.<br><br>This Service Includes:<br><br>- An onsite visit from an engineer to inspect and diagnose the issue. (We can attempt the recovery then and there or collect the item and return once data recovery has been done)<br><br>- Data recovery<br><br><br>Estimated time of Service: 2 Hours to 2 Days<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"mobile.html#contacts3-20\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
@@ -805,7 +942,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-30-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-40-2000x1333.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -927,7 +1064,7 @@
           },
           "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\">support@exetertechnicalsupport.co.uk</a>",
           "title1": "<span style=\"font-weight: normal;\">Categories</span>",
-          "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li>Testimonials</li><br><br><p></p>",
+          "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
           "text6": "",
           "form": {
             "title": "MESSAGE",
@@ -957,7 +1094,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
         },
         {
           "_inherit": "menu",
@@ -1050,12 +1187,12 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"about#contacts3-6\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
         }
       ]
     },
-    "other": {
+    "other.html": {
       "settings": {
         "title": "Other Services",
         "meta_descr": "Other Services"
@@ -1152,8 +1289,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"about#contacts3-6\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
         },
         {
           "_styles": {
@@ -1203,7 +1340,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>Have a device or problem that you don't see listed? Send us a message with any queries and we will be happy to let you know if we can help.</p><p>All of our prices are flat fees. We do not charge by the hour and we do not have a \"call out fee\". See our <a href=\"Terms\">terms and conditions</a> for more details, including our full terms of service and privacy policy.</p></blockquote>"
+          "text": "<blockquote><p>Have a device or problem that you don't see listed? Send us a message with any queries and we will be happy to let you know if we can help.</p><p>All of our prices are flat fees. We do not charge by the hour and we do not have a \"call out fee\". See our <a href=\"Terms.html\">terms and conditions</a> for more details, including our full terms of service and privacy policy.</p></blockquote>"
         },
         {
           "_tags": [
@@ -1221,8 +1358,8 @@
           "_anchor": "form1-2o",
           "_params": {
             "labelsColor": "#ffffff",
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1272,8 +1409,8 @@
           "_name": "features3",
           "_anchor": "features3-2n",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "0",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1299,7 +1436,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "WebDesign.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -1308,14 +1445,14 @@
           "title1": "Web Design",
           "subtitle1": "Website creation",
           "caption1": "Looking for a new website? We can design, host and optimize a stunning site tailored to suit your preferences. Select \"Example\" below to see a page we have created for a client.",
-          "button1": "<a data-app-btn=\"true\" href=\"http://www.aarongoldenphotography.com/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Example</a> <a data-app-btn=\"true\" href=\"other#contacts3-23\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Request a Quote</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://www.aarongoldenphotography.com/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Example</a> <a data-app-btn=\"true\" href=\"WebDesign.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Request a Quote</a> <a data-app-btn=\"true\" href=\"WebDesign.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">More</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-9-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "about.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -1324,19 +1461,23 @@
           "title2": "Local Support Classes",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "We run regular support classes around Devon. Follow our social media to keep up to date or contact us to join a session.",
-          "button2": "<a data-app-btn=\"true\" href=\"about\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"about.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x397.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "index.html",
+              "alt": "newsletter",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title3": "Newsletter",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Subscribe to our free newsletter for special offers and advice. No spam we promise, just technical information and regular service discounts.",
-          "button3": "<a data-app-btn=\"true\" href=\"index\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -1518,7 +1659,7 @@
           },
           "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\">support@exetertechnicalsupport.co.uk</a>",
           "title1": "<span style=\"font-weight: normal;\">Categories</span>",
-          "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li>Testimonials</li><br><br><p></p>",
+          "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
           "text6": "",
           "form": {
             "title": "MESSAGE",
@@ -1548,11 +1689,11 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
         }
       ]
     },
-    "desktop": {
+    "desktop.html": {
       "settings": {
         "title": "Desktop Services",
         "meta_descr": "Desktop Services"
@@ -1649,8 +1790,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"about#contacts3-6\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
         },
         {
           "_styles": {
@@ -1744,18 +1885,20 @@
           },
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
               "name": "desktop",
-              "link": "https://mobirise.com",
+              "family": "et-line",
+              "active": true,
+              "link": "",
               "size": 0,
-              "family": "et-line"
+              "newWindow": false
             }
           },
           "title1": "Computer Setup - £40",
           "subtitle1": "Installation",
           "caption1": "We provide a service to set up your desktop. This will include an in person consultation on site to confirm your preferences for setup and includes computers than run both Windows and Mac OS.<br><br>This Service Includes:<br><br>- An onsite visit from an engineer where we will unpack and install your computer safely and securely.<br><br>- Connection to an existing broadband network.<br><br>- Reasonable device connection. We can connect your new computer to a reasonable amount of personal devices you have at your home. (For example printers and bluetooth speakers)<br><br>- Basic software setup. We will get you started with the necessary programs that you require. (For example web browsers, media/imaging applications and security software)<br><br><br><br>Estimated time of Service: 1 to 2 Hours&nbsp;<br> ",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"desktop.html#contacts3-16\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
@@ -1763,14 +1906,15 @@
               "name": "cursor-click",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title2": "General Tune Up - £30",
           "subtitle2": "Optimization",
           "caption2": "If your computer is running slowly or you are experiencing general problems without a clear cause, we provide a general \"Tune Up\" to resolve a wide range of issues. This will involve diagnosing the problem initially, with an at home visit, and providing a suitable solution there and then.<br><br>This Service Includes:<br><br>- An onsite inspection and diagnosis of the problem<br><br>- A general tune up of the device<br><br>- Use of prevention techniques to help reduce the chance of further issues<br><br><br><br><br><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><br><span style=\"font-size: 1rem; line-height: 1.5;\">Estimated time of Service: 1 to 2 Hours</span><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"desktop.html#contacts3-16\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
@@ -1778,14 +1922,15 @@
               "name": "refresh",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title3": "Virus &amp; Malware Removal - £40",
           "subtitle3": "Cleanup",
           "caption3": "We can help to remove Malware (malicious software) from your computer. This includes Viruses, Worms, Trojans, and generally harmful software that infects your computer system.<br><br>If you are finding a lot of popups adverts appearing, your computer is generally running slowly, or you are receiving a high amount of \"spam\" emails, you may have some sort of malware.  We can use a variety of methods to remove this and help prevent future infections.<br><br>This Service includes:<br><br>- An onsite visit from an engineer to diagnose and inspect your computer<br><br>- Removal of unwanted software or programs, possibly including a full reset of the system<br><br>- Implementation of prevention methods to help reduce the chance of similar issues in the future<br><br><br>Estimated time of Service: 1 to 2 Hours<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"desktop.html#contacts3-16\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "media4": {
             "iconFont": {
               "active": true,
@@ -1878,7 +2023,7 @@
           "title1": "Wi-Fi Tune Up - £30",
           "subtitle1": "Connectivity",
           "caption1": "If you are having problems accessing the internet or it is loading slowly... we can help! Our WiFi \"Tune Up\" is usually an at home visit where we will identify any connection issues and provide a solution while on site.<br><br>If there is no clear cause of the problem, we have many techniques that we can provide, which will often speed up your connection considerably.<br><br>This Service Includes:<br><br>- An onsite inspection and diagnosis of the problem<br><br>- A tune up of the internet connection<br><br>- Use of prevention techniques to help reduce the chance of further issues<br><br>Estimated time of Service: 1 to 2 Hours<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"desktop.html#contacts3-16\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
@@ -1893,7 +2038,7 @@
           "title2": "Data Transfer/Backup - £30",
           "subtitle2": "Information",
           "caption2": "We can transfer up to 2 terabytes of data from one device to another, or from one device to an external drive. <br><br>We will provide a portable storage device to carry the data if required.<br><br>This Service includes:<br><br>- An onsite visit from an engineer to transfer or backup the required data. We will stay to ensure the data has been successfully moved<br><br><br><br><br><br><br><br><br><br>Estimated time of Service: 1 Hour<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"desktop.html#contacts3-16\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
@@ -1908,7 +2053,7 @@
           "title3": "Data Recovery - £50",
           "subtitle3": "Restore",
           "caption3": "If you are unable to access your files or have had hard drive issues, your Windows or Mac operating system may be unable to read hard drive data. In many cases we can help recover your important documents. <br><br>Depending on the severity of the issue, there are various ways to potentially recover data.<br><br>This Service Includes:<br><br>- An onsite visit from an engineer to inspect and diagnose the issue. <br><br>- Data recovery<br><br><br><br><br><br>Estimated time of Service: 1 to 2 Hours<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"desktop.html#contacts3-16\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "media4": {
             "iconFont": {
               "active": true,
@@ -1974,7 +2119,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-30-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-30-2000x1333.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2096,7 +2241,7 @@
           },
           "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\">support@exetertechnicalsupport.co.uk</a>",
           "title1": "<span style=\"font-weight: normal;\">Categories</span>",
-          "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li>Testimonials</li><br><br><p></p>",
+          "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
           "text6": "",
           "form": {
             "title": "MESSAGE",
@@ -2126,11 +2271,11 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
         }
       ]
     },
-    "news": {
+    "news.html": {
       "settings": {
         "title": "News and Advice",
         "meta_descr": "News and Advice"
@@ -2227,8 +2372,55 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"about#contacts3-6\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3d",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "News and Advice",
+          "text": "<p>Regular technology blogs and article</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-3e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Coming soon...</blockquote>"
         },
         {
           "_tags": [
@@ -2363,7 +2555,7 @@
           },
           "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\">support@exetertechnicalsupport.co.uk</a>",
           "title1": "<span style=\"font-weight: normal;\">Categories</span>",
-          "text5": "<p></p><li>Terms and Conditions</li><li>News and Advice</li><li>Store</li><li>Testimonials</li><br><br><p></p>",
+          "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
           "text6": "",
           "form": {
             "title": "MESSAGE",
@@ -2393,11 +2585,11 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
         }
       ]
     },
-    "Services": {
+    "Services.html": {
       "settings": {
         "title": "Services",
         "meta_descr": "Services"
@@ -2494,8 +2686,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"about#contacts3-6\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
         },
         {
           "_styles": {
@@ -2722,133 +2914,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x398.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "desktop",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"desktop\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Desktop Computer</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-12-600x400.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "laptop",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"laptop\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Laptop</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-21-600x400.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "mobile",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"mobile\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Mobile Device</a>",
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-22-600x400.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "other",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"other\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Other</a>",
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            },
-            ".btn": {
-              "font-size": "14px"
-            }
-          },
-          "_anchor": "features1-m",
-          "_params": {
-            "columnsColor": "#2e2e2e",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 4,
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": true
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/desktopblue-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/ets-mac-titlebackground1080p-600x398.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2858,17 +2924,17 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Desktop Computer",
-          "subtitle1": "",
-          "caption1": "",
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"desktop.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Desktop Computer</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/laptopblue-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-24-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "laptop",
+              "link": "laptop.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -2877,14 +2943,14 @@
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"laptop\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Laptop</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"laptop.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Laptop</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mobdevicesblue-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-21-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "mobile",
+              "link": "mobile.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -2893,14 +2959,14 @@
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"mobile\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Mobile Device</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"mobile.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Mobile Device</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/otherblue-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-23-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "other",
+              "link": "other.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -2909,7 +2975,7 @@
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"other\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Other</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"other.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Other</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -2957,7 +3023,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-30-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-30-2000x13330.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3079,7 +3145,7 @@
           },
           "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\">support@exetertechnicalsupport.co.uk</a>",
           "title1": "<span style=\"font-weight: normal;\">Categories</span>",
-          "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li>Testimonials</li><br><br><p></p>",
+          "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
           "text6": "",
           "form": {
             "title": "MESSAGE",
@@ -3109,11 +3175,11 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
         }
       ]
     },
-    "Terms": {
+    "Terms.html": {
       "settings": {
         "title": "Terms and Conditions",
         "meta_descr": "Terms and Conditions"
@@ -3210,8 +3276,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"about#contacts3-6\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
         },
         {
           "_styles": {
@@ -3369,7 +3435,7 @@
           },
           "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\">support@exetertechnicalsupport.co.uk</a>",
           "title1": "<span style=\"font-weight: normal;\">Categories</span>",
-          "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li>Testimonials</li><br><br><p></p>",
+          "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
           "text6": "",
           "form": {
             "title": "MESSAGE",
@@ -3399,11 +3465,11 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
         }
       ]
     },
-    "about": {
+    "about.html": {
       "settings": {
         "title": "About Us",
         "meta_descr": "About Us"
@@ -3605,7 +3671,7 @@
           },
           "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\">support@exetertechnicalsupport.co.uk</a>",
           "title1": "<span style=\"font-weight: normal;\">Categories</span>",
-          "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li>Testimonials</li><br><br><p></p>",
+          "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
           "text6": "",
           "form": {
             "title": "MESSAGE",
@@ -3635,7 +3701,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
         },
         {
           "_inherit": "menu",
@@ -3728,12 +3794,12 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"about#contacts3-6\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
         }
       ]
     },
-    "index": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Homepage",
@@ -3834,8 +3900,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"about#contacts3-6\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
         },
         {
           "_tags": [
@@ -3849,7 +3915,7 @@
             "timeout": "7",
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=ys7IUdvFhpU",
@@ -3879,8 +3945,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Services.html\" data-toolbar=\"-mbrBtnMove\">Book Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Terms.html\" data-toolbar=\"-mbrBtnMove\">Terms of Service</a>"
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/mbr-18-2000x1333.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1155.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -3982,7 +4048,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.8",
             "overlayColor": "#222",
             "showTitle": false,
             "showText": true,
@@ -4144,7 +4210,7 @@
             "overlayOpacity": "0.7",
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubTitle": true
+            "showSubTitle": false
           },
           "title": "Subscribe to our Newsletter",
           "subtitle": "",
@@ -4295,7 +4361,7 @@
           },
           "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\">support@exetertechnicalsupport.co.uk</a>",
           "title1": "<span style=\"font-weight: normal;\">Categories</span>",
-          "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li>Testimonials</li><br><br><p></p>",
+          "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
           "text6": "",
           "form": {
             "title": "MESSAGE",
@@ -4325,7 +4391,1516 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
+        }
+      ]
+    },
+    "WebDesign.html": {
+      "settings": {
+        "title": "Web Design",
+        "meta_descr": "Web Page Design"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-02-24-at-19-2000x1250.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "<span style=\"font-size: 4.39rem; line-height: 1.1;\">Web Design</span><br>",
+                "showText": true,
+                "text": "Bespoke websites created just for you.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">E-mail Us For a Quote</a> "
+              },
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/g6fHiaT09Ss",
+                "overlay": true,
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "",
+                "showText": true,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "IMAGE SLIDE",
+                "showText": true,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-30",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-35",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/desktop-1.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "Bespoke website design",
+          "caption": "<p>At ETS we offer bespoke website design services, tailor made to suit your business needs.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Websites are essential in the digital age and are a great way to reach new customers.<br><br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Whether it's website design for creatives and photographers or for a corporate business we can help.&nbsp;<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Our websites are built using Format.com, Wordpress and Squarespace platforms with custom HTML/CSS to make your site stand out.&nbsp;<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br><br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br>Our prices start from £160 and include yearly hosting costs for the first 3 years, platform costs and a responsive website that will work well on any device and become valuable reflection of your branding. We can also integrate e-commerce shops and Mailchimp e-mail signup forms.<br><br>Please send us an e-mail to arrange for a custom quote or consultation meeting: support@exetertechnicalsupport.co.uk<br><br>Examples of previous websites designed by us can be found below.</span></p><p><br></p>"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-36",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "MODERN STYLES",
+          "text": "<p>ETS offers custom templates, such as the 1st iteration of our own website. In need of a new site? We can get you set up with one of our templates and rebrand it so that's it's ready to use for your own company</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": true,
+                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "FULL SCREEN SLIDER",
+                "showText": true,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "VIDEO SLIDE",
+                "showText": true,
+                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "IMAGE SLIDE",
+                "showText": true,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-34",
+          "articleLayout": false
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "20px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#419fd1!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2y",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            ".list-group-text": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#c1c1c1"
+            },
+            "STRONG": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "16px",
+              "text-align": "left"
+            },
+            "H4": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "14px"
+            },
+            "SPAN": {
+              "font-size": "14px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "contacts3-2z",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/etslogo-265x165.png",
+              "class": "card-img-top",
+              "width": 265,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "linkInNewWindow": false,
+              "name": "letter",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": "30",
+              "active": true,
+              "color": "#c1c1c1",
+              "newWindow": false
+            }
+          },
+          "text1": "<span style=\"line-height: 1.5;\">Contact Us</span><span style=\"line-height: 1.5;\"><br></span><br>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": "24",
+              "color": "#c1c1c1"
+            }
+          },
+          "text2": "07746 139379 or 07898 977774",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "active": true,
+              "size": "24"
+            }
+          },
+          "text3": "17 Marcus House, Exeter, EX4 4JN",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "envelope",
+              "family": "et-line",
+              "active": true,
+              "size": "24"
+            }
+          },
+          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\">support@exetertechnicalsupport.co.uk</a>",
+          "title1": "<span style=\"font-weight: normal;\">Categories</span>",
+          "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
+          "text6": "",
+          "form": {
+            "title": "MESSAGE",
+            "action": "support@exetertechnicalsupport.co.uk",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
+        }
+      ]
+    },
+    "MobileScreenRepair.html": {
+      "settings": {
+        "title": "Mobile Screen Replacements",
+        "meta_descr": "iPhone and smartphone screen replacements"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-2u",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/apple-1120730-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "iPhone &amp; Android Screen Repairs",
+          "caption": "<p>We repair iPhones and other smartphones on request. Please contact us using the form below with the make and model of your phone as well as any damage that has been sustained. Below are the base prices for iPhone screen repairs. Any damage to internal components will need to be addressed separately.<br><br><b>iPhone 5 screen repairs £45</b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">iPhone 6 screen repairs £60</b></p><p><b>Android Phones: Please email us for a custom quote</b></p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "form1-2t",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": false
+          },
+          "title": "CONTACT FORM",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "support@exetertechnicalsupport.co.uk",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            ".list-group-text": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#c1c1c1"
+            },
+            "STRONG": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "16px",
+              "text-align": "left"
+            },
+            "H4": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "14px"
+            },
+            "SPAN": {
+              "font-size": "14px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "contacts3-2r",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/etslogo-265x165.png",
+              "class": "card-img-top",
+              "width": 265,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "linkInNewWindow": false,
+              "name": "letter",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": "30",
+              "active": true,
+              "color": "#c1c1c1",
+              "newWindow": false
+            }
+          },
+          "text1": "<span style=\"line-height: 1.5;\">Contact Us</span><span style=\"line-height: 1.5;\"><br></span><br>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": "24",
+              "color": "#c1c1c1"
+            }
+          },
+          "text2": "07746 139379 or 07898 977774",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "active": true,
+              "size": "24"
+            }
+          },
+          "text3": "17 Marcus House, Exeter, EX4 4JN",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "envelope",
+              "family": "et-line",
+              "active": true,
+              "size": "24"
+            }
+          },
+          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\">support@exetertechnicalsupport.co.uk</a>",
+          "title1": "<span style=\"font-weight: normal;\">Categories</span>",
+          "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
+          "text6": "",
+          "form": {
+            "title": "MESSAGE",
+            "action": "support@exetertechnicalsupport.co.uk",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "20px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#419fd1!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2s",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
+        }
+      ]
+    },
+    "LaptopScreenRepairs.html": {
+      "settings": {
+        "title": "Laptop Screen Repairs",
+        "meta_descr": "We repair computer screens\n"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3b",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-41-2000x1333.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "Laptop Screen Replacement",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2x",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Laptop Screen &nbsp;Replacement",
+          "text": "<br>Starting from £60 for Windows computers. <br><br>Screen replacements for iMacs and Macbooks start at £130 + screen costs. If you would like to order the screen yourself that is absolutely fine but we strongly advise checking that it is ordered from a reputable supplier and is for the correct model (e.g mid 2015 MacBook pro retina).<br><br><br>Please let us know the make and model of your laptop and details of any damage that has been sustained (e.g cracked screen, 1 major crack or cracked screen - multiple cracks).<br><br>Using the contact form below would be the best way to supply us with the aforementioned details so that we can provide you with a specific quote<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-3c",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-30-2000x13330.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "Contact us to book a Service",
+          "caption": "<p>Use our contact form or any of the contact options below to arrange an engineer</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            ".list-group-text": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#c1c1c1"
+            },
+            "STRONG": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "16px",
+              "text-align": "left"
+            },
+            "H4": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "14px"
+            },
+            "SPAN": {
+              "font-size": "14px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "contacts3-2v",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/etslogo-265x165.png",
+              "class": "card-img-top",
+              "width": 265,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "linkInNewWindow": false,
+              "name": "letter",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": "30",
+              "active": true,
+              "color": "#c1c1c1",
+              "newWindow": false
+            }
+          },
+          "text1": "<span style=\"line-height: 1.5;\">Contact Us</span><span style=\"line-height: 1.5;\"><br></span><br>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": "24",
+              "color": "#c1c1c1"
+            }
+          },
+          "text2": "07746 139379 or 07898 977774",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "active": true,
+              "size": "24"
+            }
+          },
+          "text3": "17 Marcus House, Exeter, EX4 4JN",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "envelope",
+              "family": "et-line",
+              "active": true,
+              "size": "24"
+            }
+          },
+          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\">support@exetertechnicalsupport.co.uk</a>",
+          "title1": "<span style=\"font-weight: normal;\">Categories</span>",
+          "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
+          "text6": "",
+          "form": {
+            "title": "MESSAGE",
+            "action": "support@exetertechnicalsupport.co.uk",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "20px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#419fd1!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2w",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
+        }
+      ]
+    },
+    "Reviews.html": {
+      "settings": {
+        "title": "Reviews and Testimonials",
+        "meta_descr": "Reviews and Testimonials"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "20px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#419fd1!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-3f",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "msg-box5-3n",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1050.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Reviews and Testimonials",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "<p>\"For some time now I have tried to find engineers with the skill to carry out the work.&nbsp;<span style=\"font-size: 1.125rem; line-height: 2;\">I was very lucky to find Exeter Technical Support who carried out the work in a very efficient manner. Not only did they come to my home but they provided me with a price before before starting work.</span><span style=\"font-size: 1.125rem; line-height: 2;\">I have no hesitation recommending Dan and his team for any future work.\"</span></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Tony T. (Sidmouth)",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>\"Thank you to Exeter Technical Support for their excellent service. This is the second time I've used them for computer problems, the latest being that my monitor was failing to respond. ETS arrived promptly, were courteous and most importantly, fixed my monitor successfully.\"&nbsp;</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Mrs K. A. (Sidmouth)&nbsp;",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p><br></p><p>\"Very professional, quick,efficient and thorough. My scanner and printer glitches were sorted out in a jiffy, plus useful tidy-up of unneeded apps on my desktop, which were slowing everything down. Many thanks.\"&nbsp;</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Huw H. ( Exeter)&nbsp;",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials1-3m",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "count": 3,
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showSubtitle": false
+          },
+          "title": "Testimonials",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-3g",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "17 Marcus House, EX4 4JN",
+              "placeId": "ChIJO_6rrDmkbUgRCfL10KJ3iqg",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>17 Marcus House<br>Exeter<br>EX4 4JN<br><br><br>",
+          "text2": "<strong>Social</strong><ul><li><a href=\"https://twitter.com/ExeterTechnical\" target=\"_blank\">Twitter</a></li><li><a href=\"https://www.facebook.com/exetertechnicalsupport/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://www.google.co.uk/maps/place/Exeter+Technical+Support/@50.727159,-3.6741835,11z/data=!3m1!4b1!4m5!3m4!1s0x486da4385339d239:0xc0cbe1381654d9c7!8m2!3d50.7272433!4d-3.5341011\" target=\"_blank\">Google Reviews</a></li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            ".list-group-text": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#c1c1c1"
+            },
+            "STRONG": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "16px",
+              "text-align": "left"
+            },
+            "H4": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "14px"
+            },
+            "SPAN": {
+              "font-size": "14px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "contacts3-3h",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/etslogo-265x165.png",
+              "class": "card-img-top",
+              "width": 265,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "linkInNewWindow": false,
+              "name": "letter",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": "30",
+              "active": true,
+              "color": "#c1c1c1",
+              "newWindow": false
+            }
+          },
+          "text1": "<span style=\"line-height: 1.5;\">Contact Us</span><span style=\"line-height: 1.5;\"><br></span><br>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": "24",
+              "color": "#c1c1c1"
+            }
+          },
+          "text2": "07746 139379 or 07898 977774",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "active": true,
+              "size": "24"
+            }
+          },
+          "text3": "17 Marcus House, Exeter, EX4 4JN",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "envelope",
+              "family": "et-line",
+              "active": true,
+              "size": "24"
+            }
+          },
+          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\">support@exetertechnicalsupport.co.uk</a>",
+          "title1": "<span style=\"font-weight: normal;\">Categories</span>",
+          "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
+          "text6": "",
+          "form": {
+            "title": "MESSAGE",
+            "action": "support@exetertechnicalsupport.co.uk",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
         }
       ]
     }
