@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ETS, Google drive",
-    "currentPage": "index.html",
+    "currentPage": "WebDesign.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -17,13 +17,12 @@
         "textFont": "Lato",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true,
-        "isRtl": false
+        "isScrollToTopButton": true
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 162,
-    "versionPublish": "3.12.1",
+    "uniqCompNum": 158,
+    "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/ets-logo2-128x128.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
@@ -386,7 +385,8 @@
             ".list-group-text": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#c1c1c1"
+              "color": "#efefef",
+              "font-size": "16px"
             },
             "STRONG": {
               "font-family": "'Lato', sans-serif",
@@ -459,7 +459,7 @@
               "color": "#c1c1c1"
             }
           },
-          "text2": "07746 139379 or 07898 977774",
+          "text2": "<b>07746 139379 or 07898 977774</b>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts3",
@@ -481,7 +481,7 @@
               "size": "24"
             }
           },
-          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\">support@exetertechnicalsupport.co.uk</a>",
+          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\"><b>support@exetertechnicalsupport.co.uk</b></a>",
           "title1": "<span style=\"font-weight: normal;\">Categories</span>",
           "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
           "text6": "",
@@ -607,7 +607,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WebDesign.html\">WEB DESIGN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WebDesign.html\">WEB DESIGN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
         }
       ]
     },
@@ -968,7 +968,8 @@
             ".list-group-text": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#c1c1c1"
+              "color": "#efefef",
+              "font-size": "16px"
             },
             "STRONG": {
               "font-family": "'Lato', sans-serif",
@@ -1041,7 +1042,7 @@
               "color": "#c1c1c1"
             }
           },
-          "text2": "07746 139379 or 07898 977774",
+          "text2": "<b>07746 139379 or 07898 977774</b>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts3",
@@ -1063,7 +1064,7 @@
               "size": "24"
             }
           },
-          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\">support@exetertechnicalsupport.co.uk</a>",
+          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\"><b>support@exetertechnicalsupport.co.uk</b></a>",
           "title1": "<span style=\"font-weight: normal;\">Categories</span>",
           "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
           "text6": "",
@@ -1189,7 +1190,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WebDesign.html\">WEB DESIGN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WebDesign.html\">WEB DESIGN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
         }
       ]
     },
@@ -1291,7 +1292,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WebDesign.html\">WEB DESIGN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WebDesign.html\">WEB DESIGN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
         },
         {
           "_styles": {
@@ -1563,7 +1564,8 @@
             ".list-group-text": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#c1c1c1"
+              "color": "#efefef",
+              "font-size": "16px"
             },
             "STRONG": {
               "font-family": "'Lato', sans-serif",
@@ -1636,7 +1638,7 @@
               "color": "#c1c1c1"
             }
           },
-          "text2": "07746 139379 or 07898 977774",
+          "text2": "<b>07746 139379 or 07898 977774</b>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts3",
@@ -1658,7 +1660,7 @@
               "size": "24"
             }
           },
-          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\">support@exetertechnicalsupport.co.uk</a>",
+          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\"><b>support@exetertechnicalsupport.co.uk</b></a>",
           "title1": "<span style=\"font-weight: normal;\">Categories</span>",
           "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
           "text6": "",
@@ -1792,7 +1794,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WebDesign.html\">WEB DESIGN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WebDesign.html\">WEB DESIGN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
         },
         {
           "_styles": {
@@ -2145,7 +2147,8 @@
             ".list-group-text": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#c1c1c1"
+              "color": "#efefef",
+              "font-size": "16px"
             },
             "STRONG": {
               "font-family": "'Lato', sans-serif",
@@ -2218,7 +2221,7 @@
               "color": "#c1c1c1"
             }
           },
-          "text2": "07746 139379 or 07898 977774",
+          "text2": "<b>07746 139379 or 07898 977774</b>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts3",
@@ -2240,7 +2243,7 @@
               "size": "24"
             }
           },
-          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\">support@exetertechnicalsupport.co.uk</a>",
+          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\"><b>support@exetertechnicalsupport.co.uk</b></a>",
           "title1": "<span style=\"font-weight: normal;\">Categories</span>",
           "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
           "text6": "",
@@ -2374,7 +2377,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WebDesign.html\">WEB DESIGN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WebDesign.html\">WEB DESIGN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
         },
         {
           "_styles": {
@@ -2459,7 +2462,8 @@
             ".list-group-text": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#c1c1c1"
+              "color": "#efefef",
+              "font-size": "16px"
             },
             "STRONG": {
               "font-family": "'Lato', sans-serif",
@@ -2532,7 +2536,7 @@
               "color": "#c1c1c1"
             }
           },
-          "text2": "07746 139379 or 07898 977774",
+          "text2": "<b>07746 139379 or 07898 977774</b>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts3",
@@ -2554,7 +2558,7 @@
               "size": "24"
             }
           },
-          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\">support@exetertechnicalsupport.co.uk</a>",
+          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\"><b>support@exetertechnicalsupport.co.uk</b></a>",
           "title1": "<span style=\"font-weight: normal;\">Categories</span>",
           "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
           "text6": "",
@@ -2688,7 +2692,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WebDesign.html\">WEB DESIGN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WebDesign.html\">WEB DESIGN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
         },
         {
           "_styles": {
@@ -3020,11 +3024,11 @@
           "_name": "content5",
           "_anchor": "content5-2g",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-48-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-30-2000x13331.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3049,7 +3053,8 @@
             ".list-group-text": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#c1c1c1"
+              "color": "#efefef",
+              "font-size": "16px"
             },
             "STRONG": {
               "font-family": "'Lato', sans-serif",
@@ -3122,7 +3127,7 @@
               "color": "#c1c1c1"
             }
           },
-          "text2": "07746 139379 or 07898 977774",
+          "text2": "<b>07746 139379 or 07898 977774</b>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts3",
@@ -3144,7 +3149,7 @@
               "size": "24"
             }
           },
-          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\">support@exetertechnicalsupport.co.uk</a>",
+          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\"><b>support@exetertechnicalsupport.co.uk</b></a>",
           "title1": "<span style=\"font-weight: normal;\">Categories</span>",
           "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
           "text6": "",
@@ -3278,7 +3283,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WebDesign.html\">WEB DESIGN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WebDesign.html\">WEB DESIGN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
         },
         {
           "_styles": {
@@ -3339,7 +3344,8 @@
             ".list-group-text": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#c1c1c1"
+              "color": "#efefef",
+              "font-size": "16px"
             },
             "STRONG": {
               "font-family": "'Lato', sans-serif",
@@ -3412,7 +3418,7 @@
               "color": "#c1c1c1"
             }
           },
-          "text2": "07746 139379 or 07898 977774",
+          "text2": "<b>07746 139379 or 07898 977774</b>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts3",
@@ -3434,7 +3440,7 @@
               "size": "24"
             }
           },
-          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\">support@exetertechnicalsupport.co.uk</a>",
+          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\"><b>support@exetertechnicalsupport.co.uk</b></a>",
           "title1": "<span style=\"font-weight: normal;\">Categories</span>",
           "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
           "text6": "",
@@ -3528,10 +3534,6 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#232323"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
           },
           "_tags": [
@@ -3577,7 +3579,7 @@
             "overlayOpacity": 0.6,
             "overlayColor": "#7e9b9f"
           },
-          "loadsvg": "@ADDONS_PATH@/social-feed/feed/assets/loading.svg"
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg"
         },
         {
           "_tags": [
@@ -3588,7 +3590,8 @@
             ".list-group-text": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#c1c1c1"
+              "color": "#efefef",
+              "font-size": "16px"
             },
             "STRONG": {
               "font-family": "'Lato', sans-serif",
@@ -3654,7 +3657,7 @@
               "family": "et-line"
             }
           },
-          "text2": "07746 139379 or 07898 977774",
+          "text2": "<b>07746 139379 or 07898 977774</b>",
           "media2": {
             "iconFont": {
               "active": true,
@@ -3674,7 +3677,7 @@
               "family": "et-line"
             }
           },
-          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\">support@exetertechnicalsupport.co.uk</a>",
+          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\"><b>support@exetertechnicalsupport.co.uk</b></a>",
           "title1": "<span style=\"font-weight: normal;\">Categories</span>",
           "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
           "text6": "",
@@ -3800,7 +3803,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WebDesign.html\">WEB DESIGN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WebDesign.html\">WEB DESIGN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
         }
       ]
     },
@@ -3906,7 +3909,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WebDesign.html\">WEB DESIGN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WebDesign.html\">WEB DESIGN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
         },
         {
           "_tags": [
@@ -3917,7 +3920,7 @@
             "autoplay": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "timeout": "10",
+            "timeout": "7",
             "slides": [
               {
                 "active": true,
@@ -4022,7 +4025,7 @@
             }
           },
           "title": "Professional IT Services",
-          "text": "Web design, Engineer visits, Malware advice, Local support classes, News articles, Remote online support.<br>We pride outselves on providing quality support with no hassle and no hourly rates to worry about.",
+          "text": "Web design, Engineer visits, Malware advice, Local support classes, News articles, Remote online support.<br>We pride ourselves on providing quality support with no hassle and no hourly rates to worry about.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Services.html\" data-toolbar=\"-mbrBtnMove\">FIND OUT MORE</a>"
         },
         {
@@ -4077,7 +4080,7 @@
           "_params": {
             "columnsColor": "#2e2e2e",
             "paddingTop": 2,
-            "paddingBottom": "0",
+            "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -4111,7 +4114,7 @@
           },
           "title1": "Make a Booking",
           "subtitle1": "Arrange an Engineer Visit",
-          "caption1": "<span style=\"font-size: 1rem; line-height: 1.5;\">Click More and contact us now to arrange an appointment with an engineer, We are based in Exeter and cover the local area for general computer and mobile device support. Send us a message with any queries, even if you don't see a service listed for the problem you are having, we will let you know if we can help.</span><br><br><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><br>",
+          "caption1": "<span style=\"font-size: 1rem; line-height: 1.5;\">Click More and contact us now to arrange an appointment with an engineer, We are based in Exeter and cover the local area for general computer and mobile device support. Send us a message with any queries, even if you don't see a service listed for the problem you are having, we will let you know if we can help.</span><br><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><br>",
           "button1": "<a data-app-btn=\"true\" href=\"index.html#contacts3-b\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>MORE</a>",
           "media2": {
             "image": {
@@ -4127,7 +4130,7 @@
           },
           "title2": "Device Set Up<br>",
           "subtitle2": "Professional Installation",
-          "caption2": "Leave your new device in our capable hands and we will professionally install to your requirements. We will also connect it to existing devices you currently own, for example printers or sound systems. Includes Windows and Mac computers as well as most mobile devices.<br><br><br><br><br>",
+          "caption2": "Leave your new device in our capable hands and we will professionally install to your requirements. We will also connect it to existing devices you currently own, for example printers or sound systems. Includes Windows and Mac computers as well as most mobile devices.<br><br><br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"Services.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>MORE</a>",
           "media3": {
             "image": {
@@ -4217,7 +4220,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x934.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -4232,8 +4239,8 @@
             }
           },
           "title": "WEB DESIGN &amp; SEO SERVICES",
-          "text": "WEB DESIGN FOR CREATIVES AND ENTREPRENEURS<br>Check out our bespoke web design services page. We focus on providing site's tailored to your needs.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"SEO Service.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>Unlock your business's potential</a> "
+          "text": "WEB DESIGN FOR CREATIVES AND ENTREPRENEURS<br>Check out our bespoke web design services page. We focus on providing websites tailored to your needs.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"WebDesign.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>Unlock your business's potential</a> "
         },
         {
           "_styles": {
@@ -4267,7 +4274,7 @@
             "showTitle": true,
             "showSubTitle": false
           },
-          "title": "Subscribe to our Newsletter",
+          "title": "Subscribe to our Newsletter&nbsp;",
           "subtitle": "",
           "form": {
             "action": "support@exetertechnicalsupport.co.uk",
@@ -4281,37 +4288,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>SUBSCRIBE (We have a Zero Spam Policy)</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-3w",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": true,
-            "showText": true,
-            "showTitle": true
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-streamjar mbr-iconfont mbr-iconfont-btn\"></span>TIP JAR / COFFEE &amp; PIZZA FUND</a>",
-          "text": "If you would like to leave a tip, firstly thank you! There is a button to the right where a secure Paypal payment can be made to our tip jar which helps us keep the lights on and ensures our coffee and pizza supply is well stocked!",
-          "title": ""
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>SUBSCRIBE ( We have a Zero Spam Policy)</a>"
         },
         {
           "_tags": [
@@ -4349,7 +4326,8 @@
             ".list-group-text": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#c1c1c1"
+              "color": "#efefef",
+              "font-size": "16px"
             },
             "STRONG": {
               "font-family": "'Lato', sans-serif",
@@ -4422,7 +4400,7 @@
               "color": "#c1c1c1"
             }
           },
-          "text2": "07746 139379 or 07898 977774",
+          "text2": "<b>07746 139379 or 07898 977774</b>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts3",
@@ -4444,7 +4422,7 @@
               "size": "24"
             }
           },
-          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\">support@exetertechnicalsupport.co.uk</a>",
+          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\"><b>support@exetertechnicalsupport.co.uk</b></a>",
           "title1": "<span style=\"font-weight: normal;\">Categories</span>",
           "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
           "text6": "",
@@ -4487,100 +4465,6 @@
       },
       "components": [
         {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "20px",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-family": "'Lato', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.9rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#419fd1!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-48",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": "0.9",
-            "fontName": {
-              "name": "Lato",
-              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "css": "'Lato', sans-serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WebDesign.html\">WEB DESIGN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
-        },
-        {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
@@ -4590,7 +4474,7 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-4g",
+          "_anchor": "msg-box8-4b",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "0",
@@ -4618,34 +4502,49 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "slider3",
+          "_name": "slider",
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "timeout": "10",
+            "timeout": 5,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/photoscreen-2000x1250.png",
                 "playVideo": false,
-                "videoUrl": "https://youtu.be/g6fHiaT09Ss",
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "overlayOpacity": "0.3",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "Web Design",
+                "title": "Website Design",
                 "showText": false,
-                "text": "Bespoke websites created just for you.",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">Email Us for a Quote</a> "
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1334.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "Responsive and Functional Sites",
+                "showText": true,
+                "text": "We design and optimize our websites to work on all devices and browsers.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
             "fullScreen": true,
-            "bgColor": "#2e2e2e",
-            "showBullets": false
+            "bgColor": "#fff",
+            "showBullets": true
           },
-          "_anchor": "slider3-3t",
+          "_anchor": "slider-4c",
           "articleLayout": false
         },
         {
@@ -4653,7 +4552,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-4c",
+          "_anchor": "image2-4d",
           "_params": {
             "paddingTop": 4,
             "paddingBottom": 4,
@@ -4666,13 +4565,18 @@
               "width": 1400
             },
             "video": {
-              "src": "https://www.youtube.com/embed/6mw0Bi1YGWo?rel=0&vq=hd1080",
+              "src": "https://www.youtube.com/embed/6mw0Bi1YGWo",
               "autoplay": "on",
               "loop": false,
               "active": true
             }
           },
-          "text": "Bespoke websites created just for you."
+          "text": "Bespoke Websites created just for you.",
+          "_styles": {
+            "DIV": {
+              "color": "#efefef"
+            }
+          }
         },
         {
           "_inherit": "gallery1",
@@ -4929,34 +4833,98 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
         },
         {
+          "_inherit": "menu",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-3x",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-47-2000x1333.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
             },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": true,
-            "showText": true,
-            "showTitle": true
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "20px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#419fd1!important"
+            }
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-streamjar mbr-iconfont mbr-iconfont-btn\"></span>TIP JAR / COFFEE &amp; PIZZA FUND</a>",
-          "text": "If you would like to leave a tip, firstly thankyou! There is a button to the right where a secure Paypal payment can be made to our tip jar which helps us keep the lights on and ensures our coffee and pizza supply is well stocked! :)",
-          "title": ""
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2y",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WebDesign.html\">WEB DESIGN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
         },
         {
           "_tags": [
@@ -4967,7 +4935,8 @@
             ".list-group-text": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#c1c1c1"
+              "color": "#efefef",
+              "font-size": "16px"
             },
             "STRONG": {
               "font-family": "'Lato', sans-serif",
@@ -5040,7 +5009,7 @@
               "color": "#c1c1c1"
             }
           },
-          "text2": "07746 139379 or 07898 977774",
+          "text2": "<b>07746 139379 or 07898 977774</b>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts3",
@@ -5062,7 +5031,7 @@
               "size": "24"
             }
           },
-          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\">support@exetertechnicalsupport.co.uk</a>",
+          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\"><b>support@exetertechnicalsupport.co.uk</b></a>",
           "title1": "<span style=\"font-weight: normal;\">Categories</span>",
           "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
           "text6": "",
@@ -5219,7 +5188,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-streamjar mbr-iconfont mbr-iconfont-btn\"></span>TIP JAR / COFFEE &amp; PIZZA FUND</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-streamjar mbr-iconfont mbr-iconfont-btn\"></span>TIP JAR / COFFEE &amp; PIZZA FUND</a>",
           "text": "If you would like to leave a tip, firstly thankyou! There is a button to the right where a secure Paypal payment can be made to our tip jar which helps us keep the lights on and ensures our coffee and pizza supply is well stocked! :)",
           "title": ""
         },
@@ -5232,7 +5201,8 @@
             ".list-group-text": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#c1c1c1"
+              "color": "#efefef",
+              "font-size": "16px"
             },
             "STRONG": {
               "font-family": "'Lato', sans-serif",
@@ -5305,7 +5275,7 @@
               "color": "#c1c1c1"
             }
           },
-          "text2": "07746 139379 or 07898 977774",
+          "text2": "<b>07746 139379 or 07898 977774</b>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts3",
@@ -5327,7 +5297,7 @@
               "size": "24"
             }
           },
-          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\">support@exetertechnicalsupport.co.uk</a>",
+          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\"><b>support@exetertechnicalsupport.co.uk</b></a>",
           "title1": "<span style=\"font-weight: normal;\">Categories</span>",
           "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
           "text6": "",
@@ -5453,7 +5423,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WebDesign.html\">WEB DESIGN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WebDesign.html\">WEB DESIGN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
         }
       ]
     },
@@ -5559,10 +5529,10 @@
           "_anchor": "content5-3c",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-49-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-30-2000x13331.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5587,7 +5557,8 @@
             ".list-group-text": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#c1c1c1"
+              "color": "#efefef",
+              "font-size": "16px"
             },
             "STRONG": {
               "font-family": "'Lato', sans-serif",
@@ -5660,7 +5631,7 @@
               "color": "#c1c1c1"
             }
           },
-          "text2": "07746 139379 or 07898 977774",
+          "text2": "<b>07746 139379 or 07898 977774</b>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts3",
@@ -5682,7 +5653,7 @@
               "size": "24"
             }
           },
-          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\">support@exetertechnicalsupport.co.uk</a>",
+          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\"><b>support@exetertechnicalsupport.co.uk</b></a>",
           "title1": "<span style=\"font-weight: normal;\">Categories</span>",
           "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
           "text6": "",
@@ -5808,7 +5779,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WebDesign.html\">WEB DESIGN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WebDesign.html\">WEB DESIGN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
         }
       ]
     },
@@ -5910,7 +5881,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WebDesign.html\">WEB DESIGN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WebDesign.html\">WEB DESIGN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
         },
         {
           "_tags": [
@@ -6077,7 +6048,8 @@
             ".list-group-text": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#c1c1c1"
+              "color": "#efefef",
+              "font-size": "16px"
             },
             "STRONG": {
               "font-family": "'Lato', sans-serif",
@@ -6150,7 +6122,7 @@
               "color": "#c1c1c1"
             }
           },
-          "text2": "07746 139379 or 07898 977774",
+          "text2": "<b>07746 139379 or 07898 977774</b>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts3",
@@ -6172,7 +6144,7 @@
               "size": "24"
             }
           },
-          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\">support@exetertechnicalsupport.co.uk</a>",
+          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\"><b>support@exetertechnicalsupport.co.uk</b></a>",
           "title1": "<span style=\"font-weight: normal;\">Categories</span>",
           "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
           "text6": "",
@@ -6306,7 +6278,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WebDesign.html\">WEB DESIGN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WebDesign.html\">WEB DESIGN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
         },
         {
           "_tags": [
@@ -6353,8 +6325,8 @@
             }
           },
           "title": "SEO PROBLEMS?",
-          "text": "We understand how poor SEO performance can affect website rankings and make it harder for customers to find your site. We know what makes SEO tick and can help whether it's getting things off the ground or providing an SEO Tuneup.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>"
+          "text": "We undnerstand how poor SEO performance can affect website rankings and make it harder for customers to find your site. We know what makes SEO tick and can whether it's getting things off the ground or providing an SEO Tuneup.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>"
         },
         {
           "_tags": [
@@ -6392,7 +6364,8 @@
             ".list-group-text": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#c1c1c1"
+              "color": "#efefef",
+              "font-size": "16px"
             },
             "STRONG": {
               "font-family": "'Lato', sans-serif",
@@ -6465,7 +6438,7 @@
               "color": "#c1c1c1"
             }
           },
-          "text2": "07746 139379 or 07898 977774",
+          "text2": "<b>07746 139379 or 07898 977774</b>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts3",
@@ -6487,7 +6460,7 @@
               "size": "24"
             }
           },
-          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\">support@exetertechnicalsupport.co.uk</a>",
+          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\"><b>support@exetertechnicalsupport.co.uk</b></a>",
           "title1": "<span style=\"font-weight: normal;\">Categories</span>",
           "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
           "text6": "",
@@ -6553,19 +6526,11 @@
             "contentAlign": "right",
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "title": "FAQ",
-          "text": "Frequently Asked Questions",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-lead": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "text-align": "center"
-            }
-          }
+          "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_tags": [
@@ -6589,7 +6554,8 @@
             ".list-group-text": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#c1c1c1"
+              "color": "#efefef",
+              "font-size": "16px"
             },
             "STRONG": {
               "font-family": "'Lato', sans-serif",
@@ -6655,7 +6621,7 @@
               "family": "et-line"
             }
           },
-          "text2": "07746 139379 or 07898 977774",
+          "text2": "<b>07746 139379 or 07898 977774</b>",
           "media2": {
             "iconFont": {
               "active": true,
@@ -6675,7 +6641,7 @@
               "family": "et-line"
             }
           },
-          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\">support@exetertechnicalsupport.co.uk</a>",
+          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\"><b>support@exetertechnicalsupport.co.uk</b></a>",
           "title1": "<span style=\"font-weight: normal;\">Categories</span>",
           "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
           "text6": "",
@@ -6801,7 +6767,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WebDesign.html\">WEB DESIGN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WebDesign.html\">WEB DESIGN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
         }
       ]
     },
@@ -6903,7 +6869,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ETS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WebDesign.html\">WEB DESIGN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WebDesign.html\">WEB DESIGN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\">NEWS AND ADVICE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"about.html\">ABOUT US</a></li>"
         },
         {
           "_tags": [
@@ -6941,7 +6907,8 @@
             ".list-group-text": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#c1c1c1"
+              "color": "#efefef",
+              "font-size": "16px"
             },
             "STRONG": {
               "font-family": "'Lato', sans-serif",
@@ -7014,7 +6981,7 @@
               "color": "#c1c1c1"
             }
           },
-          "text2": "07746 139379 or 07898 977774",
+          "text2": "<b>07746 139379 or 07898 977774</b>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts3",
@@ -7036,7 +7003,7 @@
               "size": "24"
             }
           },
-          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\">support@exetertechnicalsupport.co.uk</a>",
+          "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\"><b>support@exetertechnicalsupport.co.uk</b></a>",
           "title1": "<span style=\"font-weight: normal;\">Categories</span>",
           "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
           "text6": "",
