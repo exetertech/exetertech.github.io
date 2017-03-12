@@ -3046,7 +3046,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-30-2000x13337.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-30-2000x13330.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4562,7 +4562,7 @@
                 "showTitle": true,
                 "title": "Responsive and Functional Sites",
                 "showText": true,
-                "text": "We design and optimize our websites to work on all devices and browsers.",
+                "text": "We design and optimize our websites to work on all major devices and browsers.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
@@ -4579,6 +4579,11 @@
             "Theme"
           ],
           "_name": "image2",
+          "_styles": {
+            "DIV": {
+              "color": "#efefef"
+            }
+          },
           "_anchor": "image2-4d",
           "_params": {
             "paddingTop": 4,
@@ -4598,12 +4603,7 @@
               "active": true
             }
           },
-          "text": "Bespoke Websites created just for you.",
-          "_styles": {
-            "DIV": {
-              "color": "#efefef"
-            }
-          }
+          "text": "Bespoke Websites created just for you."
         },
         {
           "_inherit": "gallery1",
@@ -4729,8 +4729,8 @@
             "showTitle": true,
             "showCaption": true
           },
-          "title": "Bespoke website design",
-          "caption": "<p><span style=\"line-height: 1.5;\">At ETS we offer bespoke website design services, tailor made to suit your needs.&nbsp;</span><br></p><p>Whether you are a small business owner or an aspiring entrepreneur,  websites are essential in the digital age and are a great way to reach new customers.</p><p><span style=\"line-height: 1.5;\">Our prices start from £300 and include yearly hosting costs for the first 3 years, platform costs and a responsive website that will work well on any device and become valuable reflection of your branding. We can also integrate e-commerce shops, client log in pages and Mailchimp e-mail signup forms.</span></p><p><span style=\"line-height: 1.5;\">From parallax scrolling to video Backrounds we've got it covered.</span></p><p><span style=\"line-height: 1.5;\">Examples of previous websites designed by us can be found at the top of this page.  At the moment we are mostly designing using custom coding with platforms such as WordPress, Format and Squarespace.</span><br></p><p><span style=\"line-height: 1.5;\">We also offer additional services that can be brought into a package deal, these include copywriting and SEO optimisation.</span><br></p><p><span style=\"line-height: 1.5;\">Drop us an e-mail to arrange for a custom quote or consultation meeting: support@exetertechnicalsupport.co.uk</span><br></p>"
+          "title": "Bespoke Website Design",
+          "caption": "<p><span style=\"line-height: 1.5;\">At ETS we offer custom website design services, tailor made to suit your needs.&nbsp;</span><br></p><p>Whether you are a small business owner or an aspiring entrepreneur,  websites are essential in the digital age and are a great way to reach new customers.</p><p><span style=\"line-height: 1.5;\">Our prices start from £160 and include yearly hosting costs for the first 3 years, platform costs and a responsive website that will work well on any device and become valuable reflection of your branding. We can also integrate e-commerce shops, client log in pages and Mailchimp e-mail signup forms.</span></p><p><span style=\"line-height: 1.5;\">From parallax scrolling to video Backrounds we've got it covered.</span></p><p><span style=\"line-height: 1.5;\">Examples of previous websites designed by us can be found at the top of this page.  At the moment we are mostly designing using custom coding with platforms such as WordPress, Format and Squarespace.</span><br></p><p><span style=\"line-height: 1.5;\">We also offer additional services that can be brought into a package deal, these include copywriting and SEO optimisation.</span><br></p><p><span style=\"line-height: 1.5;\">Drop us an e-mail to arrange for a custom quote or consultation meeting: support@exetertechnicalsupport.co.uk</span><br></p>"
         },
         {
           "_inherit": "msg-box8",
@@ -5565,7 +5565,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-30-2000x13337.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-30-2000x13330.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
