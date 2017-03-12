@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ETS, Google drive",
-    "currentPage": "WebDesign.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -3917,7 +3917,7 @@
             "autoplay": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "timeout": "7",
+            "timeout": "10",
             "slides": [
               {
                 "active": true,
@@ -4267,7 +4267,7 @@
             "showTitle": true,
             "showSubTitle": false
           },
-          "title": "Subscribe to our Newsletter&nbsp;",
+          "title": "Subscribe to our Newsletter",
           "subtitle": "",
           "form": {
             "action": "support@exetertechnicalsupport.co.uk",
@@ -4281,7 +4281,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>SUBSCRIBE ( We have a Zero Spam Policy)</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>SUBSCRIBE (We have a Zero Spam Policy)</a>"
         },
         {
           "_tags": [
@@ -4310,7 +4310,7 @@
             "showTitle": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-streamjar mbr-iconfont mbr-iconfont-btn\"></span>TIP JAR / COFFEE &amp; PIZZA FUND</a>",
-          "text": "If you would like to leave a tip, firstly thankyou! There is a button to the right where a secure Paypal payment can be made to our tip jar which helps us keep the lights on and ensures our coffee and pizza supply is well stocked! :)",
+          "text": "If you would like to leave a tip, firstly thank you! There is a button to the right where a secure Paypal payment can be made to our tip jar which helps us keep the lights on and ensures our coffee and pizza supply is well stocked!",
           "title": ""
         },
         {
@@ -4631,7 +4631,7 @@
                 "playVideo": false,
                 "videoUrl": "https://youtu.be/g6fHiaT09Ss",
                 "overlay": true,
-                "overlayOpacity": "0.6",
+                "overlayOpacity": "0.3",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Web Design",
