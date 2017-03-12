@@ -583,7 +583,7 @@
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -1166,7 +1166,7 @@
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -1268,7 +1268,7 @@
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -1770,7 +1770,7 @@
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -2353,7 +2353,7 @@
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -2668,7 +2668,7 @@
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -3028,7 +3028,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-30-2000x13331.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-30-2000x13333.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3259,7 +3259,7 @@
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -3779,7 +3779,7 @@
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -3885,7 +3885,7 @@
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -4848,13 +4848,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#efefef"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#efefef"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#efefef",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "font-family": "'Lato', sans-serif"
             },
@@ -4877,7 +4877,7 @@
               "background": "#282828"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#efefef",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -4900,7 +4900,7 @@
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -5399,7 +5399,7 @@
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -5532,7 +5532,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-30-2000x13331.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-30-2000x13333.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5755,7 +5755,7 @@
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -5857,7 +5857,7 @@
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -6254,7 +6254,7 @@
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -6743,7 +6743,7 @@
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -6845,7 +6845,7 @@
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
