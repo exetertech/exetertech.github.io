@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ETS, Google drive",
-    "currentPage": "3rdpartyantivirusesarticle.html",
+    "currentPage": "news.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2460,7 +2460,7 @@
           },
           "title": "Why You Should Consider &nbsp;Not Using 3rd Party Antivirus Programmes",
           "text": "3rd Party Antivirus programmes can often cause more problems than they solve",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"3rdpartyantivirusesarticle.html\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
           "_styles": {
             "H3": {
               "color": "#000000"
@@ -3086,7 +3086,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-30-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-30-2000x13331.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5632,7 +5632,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-30-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-30-2000x13331.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
