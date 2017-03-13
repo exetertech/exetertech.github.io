@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ETS, Google drive",
-    "currentPage": "news.html",
+    "currentPage": "WebDesign.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -3086,7 +3086,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-30-2000x13331.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-30-2000x13332.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4932,7 +4932,12 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-streamjar mbr-iconfont mbr-iconfont-btn\"></span>TIP JAR / COFFEE &amp; PIZZA FUND</a>",
           "text": "If you would like to leave a tip, firstly thankyou! There is a button to the right where a secure Paypal payment can be made to our tip jar which helps us keep the lights on and ensures our coffee and pizza supply is well stocked! :)",
-          "title": ""
+          "title": "",
+          "_styles": {
+            "H2": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_inherit": "menu",
@@ -5632,7 +5637,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-30-2000x13331.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-30-2000x13332.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
