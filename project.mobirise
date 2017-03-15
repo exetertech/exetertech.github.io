@@ -4311,7 +4311,7 @@
             "fields": {
               "email": {
                 "title": "Email",
-                "customTitle": "Enter Your Email Address..."
+                "customTitle": "Enter Your Email Address"
               }
             }
           },
