@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ETS, Google drive",
-    "currentPage": "other.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -33,8 +33,8 @@
   "pages": {
     "laptop.html": {
       "settings": {
-        "title": "Laptop Services",
-        "meta_descr": "Laptop Services"
+        "title": "Exeter Technical Support - Laptop Repairs and Services - Local Computer Repair and Help",
+        "meta_descr": "Devon and Exeter Computer Repair and Help. Laptop Repairs, Services and Help provided for Devon - Including Exeter, Sidmouth, Exmouth, Woodbury, Topsham, Broadclyst and more"
       },
       "components": [
         {
@@ -135,7 +135,7 @@
           },
           "title1": "Laptop Setup - £30",
           "subtitle1": "Installation",
-          "caption1": "We provide a service to set up your laptop. This will include an in person consultation on site to confirm your preferences for setup and includes laptops than run both Windows and Mac OS X.<br><br>This service includes:<br><br>- An onsite visit from an engineer where we will unpack and install your computer safely and securely.<br><br>- Connection to an existing broadband network.<br><br>- Reasonable device connection. We can connect your new computer to a reasonable amount of personal devices you have at your home. (For example printers and bluetooth speakers)<br><br>- Basic software setup. We will get you started with the necessary programs that you require. (For example web browsers, media/imaging applications and security software)<br><br><br>Estimated time of Service: 1 to 2 Hours<br>",
+          "caption1": "We provide a service to set up your laptop. This will include an in person consultation on site to confirm your preferences for setup and includes laptops than run both Windows and Mac OS X.<br><br>This service includes:<br><br>- An onsite visit from an engineer where we will unpack and install your computer safely and securely.<br><br>- Connection to an existing broadband network.<br><br>- Reasonable device connection. We help to connect your new computer to a reasonable amount of personal devices you have at your home. (For example printers and bluetooth speakers)<br><br>- Basic software setup. We will help get you started with the necessary programs that you require. (For example web browsers, media/imaging applications and security software)<br><br><br>Estimated time of Repair: 1 to 2 Hours<br>",
           "button1": "<a data-app-btn=\"true\" href=\"laptop.html#contacts3-1z\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "media2": {
             "iconFont": {
@@ -151,7 +151,7 @@
           },
           "title2": "Virus &amp; Malware Removal - £30",
           "subtitle2": "Cleanup",
-          "caption2": "We can help to remove Malware (malicious software) from your computer. This includes Viruses, Worms, Trojans, and generally harmful software that infects your computer system.<br><br>If you are finding a lot of popups adverts appearing, your computer is generally running slowly, or you are receiving a high amount of \"spam\" emails, you may have some sort of malware.  We can use a variety of methods to remove this and help prevent future infections.<br><br>This Service includes:<br><br>- An onsite visit from an engineer to diagnose and inspect your computer<br><br>- Removal of unwanted software or programs, possibly including a full reset of the system<br><br>- Implementation of prevention methods to help reduce the chance of similar issues in the future<br><br>Estimated time of Service: 1 to 2 Hours<br>",
+          "caption2": "We can help to remove Malware (malicious software) from your computer. This includes Viruses, Worms, Trojans, and generally harmful software that infects your computer system.<br><br>If you are finding a lot of popups adverts appearing, your computer is generally running slowly, or you are receiving a high amount of \"spam\" emails, you may have some sort of malware.  We use a variety of methods to remove this and help prevent future infections.<br><br>This Service includes:<br><br>- An onsite visit from an engineer to diagnose and inspect your computer<br><br>- Removal of unwanted software or programs, possibly including a full reset of the system<br><br>- Implementation of prevention methods to help reduce the chance of similar issues in the future<br><br>Estimated time of Repair: 1 to 2 Hours<br>",
           "button2": "<a data-app-btn=\"true\" href=\"laptop.html#contacts3-1z\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "media3": {
             "iconFont": {
@@ -167,7 +167,7 @@
           },
           "title3": "Data Transfer/Backup - £30",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "We can transfer up to 2 terabytes of data from one device to another, or from one device to an external drive.<br><br>We will provide a portable storage device to carry the data if required.<br><br>This Service includes:<br><br>- An onsite visit from an engineer to transfer or backup the required data. We will stay to ensure the data has been successfully moved<br><br>All Customers using the data backup and recovery services must sign a disclaimer stating we will not be liable for any data loss. Every precaution will be taken to avoid the unlikely event of data loss but it is the customers responsibility to ensure there are no problems with the hard drive, computer port or connecting cables that may result in any potential issues.<br><br><br><br><br>Estimated time of Service: 1 Hour<br>",
+          "caption3": "We can help transfer up to 2 terabytes of data from one device to another, or from one device to an external drive.<br><br>We will provide a portable storage device to carry the data if required.<br><br>This Service includes:<br><br>- An onsite visit from an engineer to transfer or backup the required data. We will stay to ensure the data has been successfully moved<br><br>All Customers using the data backup and recovery services must sign a disclaimer stating we will not be liable for any data loss. Every precaution will be taken to avoid the unlikely event of data loss but it is the customers responsibility to ensure there are no problems with the hard drive, computer port or connecting cables that may result in any potential issues.<br><br><br><br><br>Estimated time of Repair: 1 Hour<br>",
           "button3": "<a data-app-btn=\"true\" href=\"laptop.html#contacts3-1z\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "media4": {
             "iconFont": {
@@ -261,7 +261,7 @@
           },
           "title1": "Data Recovery - £50",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "If you are unable to access your files or have had hard drive issues, your Windows or Mac operating system may be unable to read hard drive data. In many cases we can help recover your important documents.<br><br>Depending on the severity of the issue, there are various ways to potentially save your data. <br><br>This Service Includes:<br><br>- An onsite visit from an engineer to inspect and diagnose the issue. <br><br>- Data recovery<br><br>It's important to bear in mind that this is a basic data recovery service and there are more extensive services out there, provided by forensic experts but these will be considerably more expensive.<br><br>No recovery - No fee. (£20 Inspection fee may still apply, see terms and conditions)<br><br>Estimated time of Service: 1 to 2 Hours<br>",
+          "caption1": "If you are unable to access your files or have had hard drive issues, your Windows or Mac operating system may be unable to read hard drive data. In many cases we can help recover your important documents.<br><br>Depending on the severity of the issue, there are various ways to potentially save your data. <br><br>This Service Includes:<br><br>- An onsite visit from an engineer to inspect and diagnose the issue. <br><br>- Data recovery<br><br>It's important to bear in mind that this is a basic data recovery service and there are more extensive services out there, provided by forensic experts but these will be considerably more expensive.<br><br>No recovery - No fee. (£20 Inspection fee may still apply, see terms and conditions)<br><br>Estimated time of Repair: 1 to 2 Hours<br>",
           "button1": "<a data-app-btn=\"true\" href=\"laptop.html#contacts3-1z\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "media2": {
             "iconFont": {
@@ -277,7 +277,7 @@
           },
           "title2": "General Tuneup - £30",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "If your computer is running slowly or you are experiencing general problems without a clear cause, we provide a general \"Tune Up\" to resolve a wide range of issues. This will involve diagnosing the problem initially, with an at home visit, and providing a suitable solution there and then.<br><br>This Service Includes:<br><br>- An onsite inspection and diagnosis of the problem<br><br>- A general tune up of the device<br><br>- Use of prevention techniques to help reduce the chance of further issues<br><br><br><br><br><br><br>Estimated time of Service: 1 to 2 Hours<br>",
+          "caption2": "If your computer is running slowly or you are experiencing general problems without a clear cause, we provide a general \"Tune Up\" to resolve a wide range of issues. This will involve diagnosing the problem initially, with an at home visit, and providing a suitable solution there and then.<br><br>This Service Includes:<br><br>- An onsite inspection and diagnosis of the problem<br><br>- A general tune up of the device<br><br>- Use of prevention techniques to help reduce the chance of further issues<br><br><br><br><br><br><br>Estimated time of Repair: 1 to 2 Hours<br>",
           "button2": "<a data-app-btn=\"true\" href=\"laptop.html#contacts3-1z\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "media3": {
             "iconFont": {
@@ -293,7 +293,7 @@
           },
           "title3": "Screen Replacement - Starting from £60 + parts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Broken or cracked screen? We can replace it and reinstall a new display.<br><br>Please let us know the make and model of your laptop and details of any damage that has been sustained<br><br>This Service Includes:<br><br>- Inspection and diagnosis of the damage and hardware<br><br>- Replacement of the screen<br><br>- Post repair hardware check and display driver installation<br><br>Some damage may cause the display to be irreparable. In this situation we will let you know and you will not be charged for the full service.<br><br><br><br><br><br>Estimated time of Service: 2-3 Hours<br>",
+          "caption3": "Broken or cracked screen? We can help replace it and reinstall a new display.<br><br>Please let us know the make and model of your laptop and details of any damage that has been sustained<br><br>This Service Includes:<br><br>- Inspection and diagnosis of the damage and hardware<br><br>- Replacement of the screen<br><br>- Post repair hardware check and display driver installation<br><br>Some damage may cause the display to be irreparable. In this situation we will let you know and you will not be charged for the full service.<br><br><br><br><br><br>Estimated time of Repair: 2-3 Hours<br>",
           "button3": "<a data-app-btn=\"true\" href=\"laptop.html#contacts3-1z\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "media4": {
             "iconFont": {
@@ -357,7 +357,7 @@
           "_anchor": "content5-25",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-30-2000x1333.jpg",
@@ -374,7 +374,7 @@
             "showCaption": true
           },
           "title": "Contact us to book a Service",
-          "caption": "<p>Use our contact form or any of the contact options below to arrange an engineer</p>"
+          "caption": "<p>Use our contact form or any of the contact options below to arrange an engineer. We provide repairs and services for Devon - Including Exeter, Sidmouth, Exmouth, Woodbury, Topsham, Broadclyst and more</p>"
         },
         {
           "_tags": [
@@ -616,8 +616,8 @@
     },
     "mobile.html": {
       "settings": {
-        "title": "Mobile Device Services",
-        "meta_descr": "Mobile Device Services"
+        "title": "Exeter Technical Support - Mobile Repairs and Services - Local Computer Repair and Help",
+        "meta_descr": "Devon and Exeter Computer Repair and Help. Mobile Repairs, Services and Help provided for Devon - Including Exeter, Sidmouth, Exmouth, Woodbury, Topsham, Broadclyst and more"
       },
       "components": [
         {
@@ -668,7 +668,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>We provide many services for Mobile Devices including smartphones and tablets. See below for price guides and popular services. Please feel free to contact us if you need help with something that isn't listed.</p><p>All of our prices are flat fees. We do not charge by the hour and we do not have a \"call out fee\". See our <a href=\"Terms.html\">terms and conditions</a> for more details, including our full terms of service and privacy policy.</p></blockquote>"
+          "text": "<blockquote><p>We provide many repairs and services for Mobile Devices including smartphones and tablets. See below for price guides and popular services. Please feel free to contact us if you need help with something that isn't listed.</p><p>All of our prices are flat fees. We do not charge by the hour and we do not have a \"call out fee\". See our <a href=\"Terms.html\">terms and conditions</a> for more details, including our full terms of service and privacy policy.</p></blockquote>"
         },
         {
           "_inherit": "features1",
@@ -701,7 +701,7 @@
             "columns": "3",
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": true,
+            "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": true
           },
@@ -719,7 +719,7 @@
           },
           "title1": "Mobile Device Setup - £30",
           "subtitle1": "Tablets, Phones, Smart watches",
-          "caption1": "We provide a service to set up your mobile phone or tablet. This will include an in person consultation on site to confirm your preferences for setup and includes devices than run Windows, Android and iOS. We cover iPads, Surface tablets, smartphones and many more.<br><br>This service includes:<br><br>- An onsite visit from an engineer<br><br>- Connection to an existing broadband network.<br><br>- Reasonable device connection. We can connect your device to a reasonable amount of personal devices you have at your home. (For example printers and bluetooth speakers)<br><br>- Basic software setup. We will get you started with the necessary programs that you require. (For example web browsers, media/imaging applications and security software)<br><br><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1rem; line-height: 1.5;\">Estimated time of Service: 1 to 2 Hours</span><br>",
+          "caption1": "We provide a service to set up your mobile phone or tablet. This will include an in person consultation on site to confirm your preferences for setup and includes devices than run Windows, Android and iOS. We cover iPads, Surface tablets, smartphones and many more.<br><br>This service includes:<br><br>- An onsite visit from an engineer<br><br>- Connection to an existing broadband network.<br><br>- Reasonable device connection. We can connect your device to a reasonable amount of personal devices you have at your home. (For example printers and bluetooth speakers)<br><br>- Basic software setup. We will get you started with the necessary programs that you require. (For example web browsers, media/imaging applications and security software)<br><br><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1rem; line-height: 1.5;\">Estimated time of Repair: 1 to 2 Hours</span><br>",
           "button1": "<a data-app-btn=\"true\" href=\"mobile.html#contacts3-20\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
           "media2": {
             "iconFont": {
@@ -735,7 +735,7 @@
           },
           "title2": "Screen Replacements",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Starting from £50. Please let us know the make and model of your phone, using the contact form below and the extent of any damage sustained, such as a cracked screen. All prices are for screen replacements only, any further issues caused by damage etc would need to be addressed separately.&nbsp;<br><br>Particular phone repair costs can vary, so please contact us with the aforementioned details if you have a different model of phone that you require a screen replacement for.<br><br><br><br><br><br><br><br><br><br><br><br><span style=\"font-size: 1rem; line-height: 1.5;\">Estimated time of Service: 7 to 10 Working Days (Dependant on arrival of replacement parts)</span><br>",
+          "caption2": "Starting from £50. Please let us know the make and model of your phone, using the contact form below and the extent of any damage sustained, such as a cracked screen. All prices are for screen replacements only, any further issues caused by damage etc would need to be addressed separately.&nbsp;<br><br>Particular phone repair costs can vary, so please contact us with the aforementioned details if you have a different model of phone that you require a screen replacement for.<br><br><br><br><br><br><br><br><br><br><br><br><span style=\"font-size: 1rem; line-height: 1.5;\">Estimated time of Repair: 7 to 10 Working Days (Dependant on arrival of replacement parts)</span><br>",
           "button2": "<a data-app-btn=\"true\" href=\"MobileScreenRepair.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a> <a data-app-btn=\"true\" href=\"mobile.html#contacts3-20\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
           "media3": {
             "iconFont": {
@@ -751,7 +751,7 @@
           },
           "title3": "Data Transfer/Backup -  £30",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "We can transfer up to 2 terabytes of data from one device to another, or from one device to an external drive.<br><br>We will provide a portable storage device to carry the data if required.<br><br>This Service includes:<br><br>- An onsite visit from an engineer to transfer or backup the required data. We will stay to ensure the data has been successfully moved<br><br>All Customers using the data backup and recovery services must sign a disclaimer stating we will not be liable for any data loss. Every precaution will be taken to avoid the unlikely event of data loss but it is the customers responsibility to ensure there are no problems with the hard drive, device ports or connecting cables that may result in any potential issues.<br><br><br><br><br><span style=\"font-size: 1rem; line-height: 1.5;\">Estimated time of Service: 1 Hour</span><br>",
+          "caption3": "We can transfer up to 2 terabytes of data from one device to another, or from one device to an external drive.<br><br>We will provide a portable storage device to carry the data if required.<br><br>This Service includes:<br><br>- An onsite visit from an engineer to transfer or backup the required data. We will stay to ensure the data has been successfully moved<br><br>All Customers using the data backup and recovery services must sign a disclaimer stating we will not be liable for any data loss. Every precaution will be taken to avoid the unlikely event of data loss but it is the customers responsibility to ensure there are no problems with the hard drive, device ports or connecting cables that may result in any potential issues.<br><br><br><br><br><span style=\"font-size: 1rem; line-height: 1.5;\">Estimated time of Repair: 1 Hour</span><br>",
           "button3": "<a data-app-btn=\"true\" href=\"mobile.html#contacts3-20\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -848,7 +848,7 @@
           },
           "title1": "General Tune Up £30<br><br>&nbsp;",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "If your device is running slowly or you are experiencing general problems without a clear cause, we provide a general \"Tune Up\" to resolve a wide range of issues. This will involve diagnosing the problem initially, with an at home visit, and providing a suitable solution there and then.<br><br>This Service Includes:<br><br>- An onsite inspection and diagnosis of the problem<br><br>- A general tune up of the device<br><br>- Use of prevention techniques to help reduce the chance of further issues<br><br><br><br><span style=\"font-size: 1rem; line-height: 1.5;\">Estimated time of Service: 1 to 2 Hours</span><br>",
+          "caption1": "If your device is running slowly or you are experiencing general problems without a clear cause, we provide a general \"Tune Up\" to resolve a wide range of issues. This will involve diagnosing the problem initially, with an at home visit, and providing a suitable solution there and then.<br><br>This Service Includes:<br><br>- An onsite inspection and diagnosis of the problem<br><br>- A general tune up of the device<br><br>- Use of prevention techniques to help reduce the chance of further issues<br><br><br><br><span style=\"font-size: 1rem; line-height: 1.5;\">Estimated time of Repair: 1 to 2 Hours</span><br>",
           "button1": "<a data-app-btn=\"true\" href=\"mobile.html#contacts3-20\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "media2": {
             "iconFont": {
@@ -864,7 +864,7 @@
           },
           "title2": "Data Recovery <br>Basic Recovery: &nbsp;£50<br><span style=\"color: inherit; font-size: 1.25rem; letter-spacing: -1px; line-height: 1.2825;\">Advanced recovery: £100</span><br>",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "<br>If you are unable to access your files or have had hard drive issues, your operating system may be unable to read drive data. In many cases we can help recover your important documents. <br><br>Depending on the severity of the issue, there are various ways to potentially recover data.<br><br>This Service Includes:<br><br>- An onsite visit from an engineer to inspect and diagnose the issue. (We can attempt the recovery then and there or collect the item and return once data recovery has been done)<br><br>- Data recovery<br><br><br>Estimated time of Service: 2 Hours to 2 Days<br>",
+          "caption2": "<br>If you are unable to access your files or have had hard drive issues, your operating system may be unable to read drive data. In many cases we can help recover your important documents. <br><br>Depending on the severity of the issue, there are various ways to potentially recover data.<br><br>This Service Includes:<br><br>- An onsite visit from an engineer to inspect and diagnose the issue. (We can attempt the recovery then and there or collect the item and return once data recovery has been done)<br><br>- Data recovery<br><br><br>Estimated time of Repair: 2 Hours to 2 Days<br>",
           "button2": "<a data-app-btn=\"true\" href=\"mobile.html#contacts3-20\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -943,7 +943,7 @@
           "_anchor": "content5-29",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-40-2000x1333.jpg",
@@ -960,7 +960,7 @@
             "showCaption": true
           },
           "title": "Contact us to book a Service",
-          "caption": "<p>Use our contact form or any of the contact options below to arrange an engineer</p>"
+          "caption": "<p>Use our contact form or any of the contact options below to arrange an engineer. We provide repairs and services for Devon - Including Exeter, Sidmouth, Exmouth, Woodbury, Topsham, Broadclyst and more</p>"
         },
         {
           "_tags": [
@@ -1202,8 +1202,8 @@
     },
     "other.html": {
       "settings": {
-        "title": "Other Services",
-        "meta_descr": "Other Services"
+        "title": "Exeter Technical Support - Other Repairs and Services - Local Computer Repair and Help",
+        "meta_descr": "Devon and Exeter Computer Repair and Help. Other Repairs, Services and Help provided for Devon - Including Exeter, Sidmouth, Exmouth, Woodbury, Topsham, Broadclyst and more"
       },
       "components": [
         {
@@ -1448,8 +1448,8 @@
               "width": 600,
               "active": true,
               "link": "WebDesign.html",
-              "alt": "",
-              "title": "",
+              "alt": "Code",
+              "title": "Code",
               "linkInNewWindow": false
             }
           },
@@ -1464,8 +1464,8 @@
               "width": 600,
               "active": true,
               "link": "about.html",
-              "alt": "",
-              "title": "",
+              "alt": "Classroom",
+              "title": "Classroom",
               "linkInNewWindow": false
             }
           },
@@ -1481,7 +1481,7 @@
               "active": true,
               "link": "index.html",
               "alt": "newsletter",
-              "title": "",
+              "title": "Newsletter",
               "linkInNewWindow": false
             }
           },
@@ -1545,7 +1545,7 @@
           "_anchor": "content5-2l",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-30-2000x1333.jpg",
@@ -1562,7 +1562,7 @@
             "showCaption": true
           },
           "title": "Contact us to book a Service",
-          "caption": "<p>Use our contact form or any of the contact options below to arrange an engineer</p>"
+          "caption": "<p>Use our contact form or any of the contact options below to arrange an engineer. We provide repairs and services for Devon - Including Exeter, Sidmouth, Exmouth, Woodbury, Topsham, Broadclyst and more</p>"
         },
         {
           "_tags": [
@@ -1677,7 +1677,7 @@
             "title": "MESSAGE",
             "action": "support@exetertechnicalsupport.co.uk",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for your message! We will respond as soon as possible"
             },
             "fields": {
               "name": {
@@ -1707,8 +1707,8 @@
     },
     "desktop.html": {
       "settings": {
-        "title": "Desktop Services",
-        "meta_descr": "Desktop Services"
+        "title": "Exeter Technical Support - Desktop PC Repairs - Local Computer Repair and Help",
+        "meta_descr": "Devon and Exeter Computer Repair and Help. PC Repairs, Services and Help provided for Devon - Including Exeter, Sidmouth, Exmouth, Woodbury, Topsham, Broadclyst and more"
       },
       "components": [
         {
@@ -1912,7 +1912,7 @@
           },
           "title1": "Computer Setup - £40",
           "subtitle1": "Installation",
-          "caption1": "We provide a service to set up your desktop. This will include an in person consultation on site to confirm your preferences for setup and includes computers than run both Windows and Mac OS.<br><br>This Service Includes:<br><br>- An onsite visit from an engineer where we will unpack and install your computer safely and securely.<br><br>- Connection to an existing broadband network.<br><br>- Reasonable device connection. We can connect your new computer to a reasonable amount of personal devices you have at your home. (For example printers and bluetooth speakers)<br><br>- Basic software setup. We will get you started with the necessary programs that you require. (For example web browsers, media/imaging applications and security software)<br><br><br><br>Estimated time of Service: 1 to 2 Hours&nbsp;<br> ",
+          "caption1": "We provide a service to set up your desktop. This will include an in person consultation on site to confirm your preferences for setup and includes computers than run both Windows and Mac OS.<br><br>This Service Includes:<br><br>- An onsite visit from an engineer where we will unpack and install your computer safely and securely.<br><br>- Connection to an existing broadband network.<br><br>- Reasonable device connection. We can help connect your new computer to a reasonable amount of personal devices you have at your home. (For example printers and bluetooth speakers)<br><br>- Basic software setup. We will help get you started with the necessary programs that you require. (For example web browsers, media/imaging applications and security software)<br><br><br><br>Estimated time of Repair: 1 to 2 Hours&nbsp;<br> ",
           "button1": "<a data-app-btn=\"true\" href=\"desktop.html#contacts3-16\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "media2": {
             "iconFont": {
@@ -1928,7 +1928,7 @@
           },
           "title2": "General Tune Up - £30",
           "subtitle2": "Optimization",
-          "caption2": "If your computer is running slowly or you are experiencing general problems without a clear cause, we provide a general \"Tune Up\" to resolve a wide range of issues. This will involve diagnosing the problem initially, with an at home visit, and providing a suitable solution there and then.<br><br>This Service Includes:<br><br>- An onsite inspection and diagnosis of the problem<br><br>- A general tune up of the device<br><br>- Use of prevention techniques to help reduce the chance of further issues<br><br><br><br><br><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><br><span style=\"font-size: 1rem; line-height: 1.5;\">Estimated time of Service: 1 to 2 Hours</span><br>",
+          "caption2": "If your computer is running slowly or you are experiencing general problems without a clear cause, we provide a general \"Tune Up\" to resolve a wide range of issues. This will involve diagnosing the problem initially, with an at home visit, and providing a suitable solution there and then.<br><br>This Service Includes:<br><br>- An onsite inspection and diagnosis of the problem<br><br>- A general tune up of the device<br><br>- Use of prevention techniques to help reduce the chance of further issues<br><br><br><br><br><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><br><span style=\"font-size: 1rem; line-height: 1.5;\">Estimated time of Repair: 1 to 2 Hours</span><br>",
           "button2": "<a data-app-btn=\"true\" href=\"desktop.html#contacts3-16\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "media3": {
             "iconFont": {
@@ -1944,7 +1944,7 @@
           },
           "title3": "Virus &amp; Malware Removal - £40",
           "subtitle3": "Cleanup",
-          "caption3": "We can help to remove Malware (malicious software) from your computer. This includes Viruses, Worms, Trojans, and generally harmful software that infects your computer system.<br><br>If you are finding a lot of popups adverts appearing, your computer is generally running slowly, or you are receiving a high amount of \"spam\" emails, you may have some sort of malware.  We can use a variety of methods to remove this and help prevent future infections.<br><br>This Service includes:<br><br>- An onsite visit from an engineer to diagnose and inspect your computer<br><br>- Removal of unwanted software or programs, possibly including a full reset of the system<br><br>- Implementation of prevention methods to help reduce the chance of similar issues in the future<br><br><br>Estimated time of Service: 1 to 2 Hours<br>",
+          "caption3": "We can help to remove Malware (malicious software) from your computer. This includes Viruses, Worms, Trojans, and generally harmful software that infects your computer system.<br><br>If you are finding a lot of popups adverts appearing, your computer is generally running slowly, or you are receiving a high amount of \"spam\" emails, you may have some sort of malware.  We use a variety of methods to remove this and help prevent future infections.<br><br>This Service includes:<br><br>- An onsite visit from an engineer to diagnose and inspect your computer<br><br>- Removal of unwanted software or programs, possibly including a full reset of the system<br><br>- Implementation of prevention methods to help reduce the chance of similar issues in the future<br><br><br>Estimated time of Repair: 1 to 2 Hours<br>",
           "button3": "<a data-app-btn=\"true\" href=\"desktop.html#contacts3-16\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "media4": {
             "iconFont": {
@@ -2037,7 +2037,7 @@
           },
           "title1": "Wi-Fi Tune Up - £30",
           "subtitle1": "Connectivity",
-          "caption1": "If you are having problems accessing the internet or it is loading slowly... we can help! Our WiFi \"Tune Up\" is usually an at home visit where we will identify any connection issues and provide a solution while on site.<br><br>If there is no clear cause of the problem, we have many techniques that we can provide, which will often speed up your connection considerably.<br><br>This Service Includes:<br><br>- An onsite inspection and diagnosis of the problem<br><br>- A tune up of the internet connection<br><br>- Use of prevention techniques to help reduce the chance of further issues<br><br>Estimated time of Service: 1 to 2 Hours<br>",
+          "caption1": "If you are having problems accessing the internet or it is loading slowly... we can help! Our WiFi \"Tune Up\" is usually an at home visit where we will identify any connection issues and provide a solution while on site.<br><br>If there is no clear cause of the problem, we have many techniques that we can provide, which will often speed up your connection considerably.<br><br>This Service Includes:<br><br>- An onsite inspection and diagnosis of the problem<br><br>- A tune up of the internet connection<br><br>- Use of prevention techniques to help reduce the chance of further issues<br><br>Estimated time of Repair: 1 to 2 Hours<br>",
           "button1": "<a data-app-btn=\"true\" href=\"desktop.html#contacts3-16\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "media2": {
             "iconFont": {
@@ -2052,7 +2052,7 @@
           },
           "title2": "Data Transfer/Backup - £30",
           "subtitle2": "Information",
-          "caption2": "We can transfer up to 2 terabytes of data from one device to another, or from one device to an external drive. <br><br>We will provide a portable storage device to carry the data if required.<br><br>This Service includes:<br><br>- An onsite visit from an engineer to transfer or backup the required data. We will stay to ensure the data has been successfully moved<br><br><br><br><br><br><br><br><br><br>Estimated time of Service: 1 Hour<br>",
+          "caption2": "We can help transfer up to 2 terabytes of data from one device to another, or from one device to an external drive. <br><br>We will provide a portable storage device to carry the data if required.<br><br>This Service includes:<br><br>- An onsite visit from an engineer to transfer or backup the required data. We will stay to ensure the data has been successfully moved<br><br><br><br><br><br><br><br><br><br>Estimated time of Repair: 1 Hour<br>",
           "button2": "<a data-app-btn=\"true\" href=\"desktop.html#contacts3-16\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "media3": {
             "iconFont": {
@@ -2067,7 +2067,7 @@
           },
           "title3": "Data Recovery - £50",
           "subtitle3": "Restore",
-          "caption3": "If you are unable to access your files or have had hard drive issues, your Windows or Mac operating system may be unable to read hard drive data. In many cases we can help recover your important documents. <br><br>Depending on the severity of the issue, there are various ways to potentially recover data.<br><br>This Service Includes:<br><br>- An onsite visit from an engineer to inspect and diagnose the issue. <br><br>- Data recovery<br><br><br><br><br><br>Estimated time of Service: 1 to 2 Hours<br>",
+          "caption3": "If you are unable to access your files or have had hard drive issues, your Windows or Mac operating system may be unable to read hard drive data. In many cases we can help recover your important documents. <br><br>Depending on the severity of the issue, there are various ways to help potentially recover data.<br><br>This Service Includes:<br><br>- An onsite visit from an engineer to inspect and diagnose the issue. <br><br>- Data recovery<br><br><br><br><br><br>Estimated time of Repair: 1 to 2 Hours<br>",
           "button3": "<a data-app-btn=\"true\" href=\"desktop.html#contacts3-16\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "media4": {
             "iconFont": {
@@ -2131,7 +2131,7 @@
           "_anchor": "content5-1e",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-30-2000x1333.jpg",
@@ -2148,7 +2148,7 @@
             "showCaption": true
           },
           "title": "Contact us to book a Service",
-          "caption": "<p>Use our contact form or any of the contact options below to arrange an engineer</p>"
+          "caption": "<p>Use our contact form or any of the contact options below to arrange an engineer. We provide repairs and services for Devon - Including Exeter, Sidmouth, Exmouth, Woodbury, Topsham, Broadclyst and more</p>"
         },
         {
           "_tags": [
@@ -2293,8 +2293,8 @@
     },
     "news.html": {
       "settings": {
-        "title": "News and Advice",
-        "meta_descr": "News and Advice"
+        "title": "Exeter Technical Support - News and Advice - Local Computer Repair and Help",
+        "meta_descr": "Devon and Exeter Computer Repair and Help. Recent News Articles, Information and Special Offers."
       },
       "components": [
         {
@@ -2611,8 +2611,8 @@
     },
     "Services.html": {
       "settings": {
-        "title": "Services",
-        "meta_descr": "Services"
+        "title": "Exeter Technical Support - Services and Repairs - Local Computer Repair and Help",
+        "meta_descr": "Devon and Exeter Computer Repair and Help. PC Repairs, Services and Help provided for Devon - Including Exeter, Sidmouth, Exmouth, Woodbury, Topsham, Broadclyst and more"
       },
       "components": [
         {
@@ -2749,7 +2749,7 @@
             "showButton": false
           },
           "title": "Device Services",
-          "text": "<p>We provide a wide range of services including: Virus removal, PC cleanups, Device setups  and Data recovery</p>",
+          "text": "<p>We help provide a wide range of repairs and services including: Virus removal, PC cleanups, Device setups  and Data recovery</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -2838,7 +2838,7 @@
             }
           },
           "title3": "Experienced Engineers",
-          "subtitle3": "Reliable repairs",
+          "subtitle3": "Reliable repairs and help",
           "caption3": "Our engineers have many years of technical experience, including IT support for companies such as Toshiba, John Lewis and Asus.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
@@ -2942,8 +2942,8 @@
               "width": 600,
               "active": true,
               "link": "desktop.html",
-              "alt": "",
-              "title": "",
+              "alt": "Desktop Computer",
+              "title": "Desktop Computer",
               "linkInNewWindow": false
             }
           },
@@ -2958,8 +2958,8 @@
               "width": 600,
               "active": true,
               "link": "laptop.html",
-              "alt": "",
-              "title": "",
+              "alt": "Laptop",
+              "title": "Laptop",
               "linkInNewWindow": false
             }
           },
@@ -2974,8 +2974,8 @@
               "width": 600,
               "active": true,
               "link": "mobile.html",
-              "alt": "",
-              "title": "",
+              "alt": "Mobile Device",
+              "title": "Mobile Device",
               "linkInNewWindow": false
             }
           },
@@ -2990,8 +2990,8 @@
               "width": 600,
               "active": true,
               "link": "other.html",
-              "alt": "",
-              "title": "",
+              "alt": "Other Services",
+              "title": "Other Services",
               "linkInNewWindow": false
             }
           },
@@ -3043,7 +3043,7 @@
           "_anchor": "content5-2g",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-30-2000x13330.jpg",
@@ -3060,7 +3060,7 @@
             "showCaption": true
           },
           "title": "Contact us to book a Service",
-          "caption": "<p>Use our contact form or any of the contact options below to arrange an engineer</p>"
+          "caption": "<p>Use our contact form or any of the contact options below to arrange an engineer. We provide repairs and services for Devon - Including Exeter, Sidmouth, Exmouth, Woodbury, Topsham, Broadclyst and more</p>"
         },
         {
           "_tags": [
@@ -3205,8 +3205,8 @@
     },
     "Terms.html": {
       "settings": {
-        "title": "Terms and Conditions",
-        "meta_descr": "Terms and Conditions"
+        "title": "Exeter Technical Support - Terms - Local Computer Repair and Help",
+        "meta_descr": "Devon and Exeter Computer Repair and Help. Terms and Conditions of our Repairs and Services. Privacy Policy."
       },
       "components": [
         {
@@ -3499,8 +3499,8 @@
     },
     "about.html": {
       "settings": {
-        "title": "About Us",
-        "meta_descr": "About Us"
+        "title": "Exeter Technical Support - About Us - Local Computer Repair and Help",
+        "meta_descr": "Devon and Exeter Computer Repair and Help. Information About Us and what we do."
       },
       "components": [
         {
@@ -3834,8 +3834,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Exeter Technical Support",
-        "meta_descr": "Exeter Technical Support",
+        "title": "Exeter Technical Support - Home - Local Computer Repair and Help",
+        "meta_descr": "Devon and Exeter Computer Repair and Help. We provide PC and Mobile Device Repairs as well as Website Design Services.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -4035,8 +4035,8 @@
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/desktop3d-1400x1351.png",
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Desktop Computer",
+              "title": "Desktop Computer",
               "linkInNewWindow": false
             },
             "video": {
@@ -4052,7 +4052,7 @@
             }
           },
           "title": "Professional IT Services",
-          "text": "Web design, Engineer visits, Malware advice, Local support classes, News articles, Remote online support.<br>We pride ourselves on providing quality support with no hassle and no hourly rates to worry about.",
+          "text": "Web design, Computer Repair, Engineer visits, Malware advice, Local support classes, News articles, Remote online support.<br>We pride ourselves on providing quality support with no hassle and no hourly rates to worry about.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Services.html\" data-toolbar=\"-mbrBtnMove\">FIND OUT MORE</a>"
         },
         {
@@ -4090,7 +4090,7 @@
             "showButton": false
           },
           "title": "MODERN STYLES",
-          "text": "<p>Exeter Technical Support specialises in providing services for customers in Exeter and the surrounding local area. &nbsp;We also support businesses with web design and IT management.</p>",
+          "text": "<p>Exeter Technical Support specialises in providing PC help and repair for customers in Exeter and the surrounding local area. &nbsp;We also support businesses with website design and IT management.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -4134,14 +4134,14 @@
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Calendar",
+              "title": "Calendar",
               "linkInNewWindow": false
             }
           },
           "title1": "Make a Booking",
           "subtitle1": "Arrange an Engineer Visit",
-          "caption1": "<span style=\"font-size: 1rem; line-height: 1.5;\">Click More and contact us now to arrange an appointment with an engineer, We are based in Exeter and cover the local area for general computer and mobile device support. Send us a message with any queries, even if you don't see a service listed for the problem you are having, we will let you know if we can help.</span><br><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><br>",
+          "caption1": "<span style=\"font-size: 1rem; line-height: 1.5;\">Click More and contact us now to arrange an appointment with an engineer, We are based in Exeter and cover the local area for general computer repair and mobile device support. Send us a message with any queries, even if you don't see a service listed for the problem you are having, we will let you know if we can help.</span><br><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><br>",
           "button1": "<a data-app-btn=\"true\" href=\"index.html#contacts3-b\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>MORE</a>",
           "media2": {
             "image": {
@@ -4150,8 +4150,8 @@
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Desktop PC",
+              "title": "Desktop PC",
               "linkInNewWindow": false
             }
           },
@@ -4166,14 +4166,14 @@
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Laptop Help",
+              "title": "Laptop Help",
               "linkInNewWindow": false
             }
           },
           "title3": "&nbsp;General Tune Up",
-          "subtitle3": "Other Issues",
-          "caption3": "If your computer is just running slowly or you are experiencing general problems without a clear cause, we provide a general \"Tune Up\" to resolve a wide range of issues. This will involve diagnosing the problem initially, with an at home visit, and providing a suitable solution there and then. Our basic Tune up is £25 and our advanced Tune up is £30.&nbsp;<br><br>",
+          "subtitle3": "PC Repair",
+          "caption3": "If your computer is just running slowly or you are experiencing general problems without a clear cause, we help provide a general \"Tune Up\" to resolve a wide range of issues. This will involve diagnosing the problem initially, with an at home visit, and providing a suitable solution there and then. Our basic Tune up is £25 and our advanced Tune up is £30.&nbsp;<br><br>",
           "button3": "<a data-app-btn=\"true\" href=\"Services.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>MORE</a>",
           "media4": {
             "image": {
@@ -4182,13 +4182,13 @@
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Books",
+              "title": "Books",
               "linkInNewWindow": false
             }
           },
           "title4": "Viruses/Malware",
-          "subtitle4": "Support and Advice",
+          "subtitle4": "Help and Advice",
           "caption4": "We understand how vital your personal information is, especially when relying on a computer for work or business. Our engineers provide a service to remove malware/viruses and to prevent possible future infections. If you are using your computer on the internet, it is important to be well protected.<br><br><br><br>",
           "button4": "<a data-app-btn=\"true\" href=\"Services.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-protect mbr-iconfont mbr-iconfont-btn\"></span>MORE</a>",
           "media5": {
@@ -4249,8 +4249,8 @@
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/mbr-1400x934.jpg",
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Coding",
+              "title": "Coding",
               "linkInNewWindow": false
             },
             "video": {
@@ -4487,8 +4487,8 @@
     },
     "WebDesign.html": {
       "settings": {
-        "title": "Web Design",
-        "meta_descr": "Web Page Design"
+        "title": "Exeter Technical Support - Website Design - Local Computer Repair and Help",
+        "meta_descr": "Devon and Exeter Computer Repair and Help. Website Design for Professionals or Businesses. Beautiful Bespoke Sites built to your preferences."
       },
       "components": [
         {
@@ -4831,7 +4831,7 @@
           "title": "Need a website? Drop us an e-mail",
           "subtitle": "ETS Web Design Services - Tailor Made Websites.<br>Functional, responsive and an all important representation of your brand.",
           "form": {
-            "action": "aarongoldenphotography@gmail.com",
+            "action": "support@exetertechnicalsupport.co.uk",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
