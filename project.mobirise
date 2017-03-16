@@ -2257,7 +2257,7 @@
           },
           "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\"><b>support@exetertechnicalsupport.co.uk</b></a>",
           "title1": "<span style=\"font-weight: normal;\">Categories</span>",
-          "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
+          "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li><a href=\"FAQ.html\">FAQ</a></li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
           "text6": "",
           "form": {
             "title": "MESSAGE",
@@ -3835,7 +3835,7 @@
       "settings": {
         "main": true,
         "title": "Exeter Technical Support - Home - Local Computer Repair and Help",
-        "meta_descr": "Devon and Exeter Computer Repair and Help. We provide PC and Mobile Device Repairs as well as Website Design Services.",
+        "meta_descr": "Devon and Exeter Computer Repair and Help. We provide Laptop, PC and Mobile Device Repairs as well as Screen Replacements and Website Design Services.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -4052,7 +4052,7 @@
             }
           },
           "title": "Professional IT Services",
-          "text": "Web design, Computer Repair, Engineer visits, Malware advice, Local support classes, News articles, Remote online support.<br>We pride ourselves on providing quality support with no hassle and no hourly rates to worry about.",
+          "text": "Web Design, Computer Repair, Engineer Visits, Screen Replacements, Malware Advice, Local Support Classes, News Articles, Remote Online Support and more...<br>We pride ourselves on providing quality support with no hassle and no hourly rates to worry about.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Services.html\" data-toolbar=\"-mbrBtnMove\">FIND OUT MORE</a>"
         },
         {
@@ -4071,8 +4071,8 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-1y",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-17-2000x1333.jpg",
@@ -4090,7 +4090,7 @@
             "showButton": false
           },
           "title": "MODERN STYLES",
-          "text": "<p>Exeter Technical Support specialises in providing PC help and repair for customers in Exeter and the surrounding local area. &nbsp;We also support businesses with website design and IT management.</p>",
+          "text": "<p>Exeter Technical Support specialises in providing PC help and repair for customers in Exeter and the surrounding local area, including Sidmouth, Exmouth, Woodbury, Topsham, Broadclyst and more. &nbsp;We also support businesses with website design and IT management.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -4145,7 +4145,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"index.html#contacts3-b\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/iphone-248906-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4155,10 +4155,10 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Device Set Up<br>",
-          "subtitle2": "Professional Installation",
-          "caption2": "Leave your new device in our capable hands and we will professionally install to your requirements. We will also connect it to existing devices you currently own, for example printers or sound systems. Includes Windows and Mac computers as well as most mobile devices.<br><br><br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"Services.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>MORE</a>",
+          "title2": "Screen Repair",
+          "subtitle2": "Cracked or Broken Screen Replacement",
+          "caption2": "We repair cracked and broken screens for smartphones, tablets and laptops. There is no need to throw away an old damaged device when it can be fixed easily and reliably. Leave your item in our capable hands and we will help to install a flawless new display. Screen repair costs vary from model to model, please click below to find out more!<br><br><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"MobileScreenRepair.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>MORE</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-5-600x400.jpg",
@@ -4172,7 +4172,7 @@
             }
           },
           "title3": "&nbsp;General Tune Up",
-          "subtitle3": "PC Repair",
+          "subtitle3": "PC Help and Repair",
           "caption3": "If your computer is just running slowly or you are experiencing general problems without a clear cause, we help provide a general \"Tune Up\" to resolve a wide range of issues. This will involve diagnosing the problem initially, with an at home visit, and providing a suitable solution there and then. Our basic Tune up is £25 and our advanced Tune up is £30.&nbsp;<br><br>",
           "button3": "<a data-app-btn=\"true\" href=\"Services.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>MORE</a>",
           "media4": {
@@ -4188,8 +4188,8 @@
             }
           },
           "title4": "Viruses/Malware",
-          "subtitle4": "Help and Advice",
-          "caption4": "We understand how vital your personal information is, especially when relying on a computer for work or business. Our engineers provide a service to remove malware/viruses and to prevent possible future infections. If you are using your computer on the internet, it is important to be well protected.<br><br><br><br>",
+          "subtitle4": "Repair, Removal and Advice",
+          "caption4": "We understand how vital your personal information is, especially when relying on a computer for work or business. Our engineers provide a repair service to remove malware/viruses and to prevent possible future infections. If you are using your computer on the internet, it is important to be well protected.<br><br><br><br>",
           "button4": "<a data-app-btn=\"true\" href=\"Services.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-protect mbr-iconfont mbr-iconfont-btn\"></span>MORE</a>",
           "media5": {
             "image": {
@@ -4266,7 +4266,7 @@
             }
           },
           "title": "WEB DESIGN &amp; SEO SERVICES",
-          "text": "WEB DESIGN FOR CREATIVES AND ENTREPRENEURS<br>Check out our bespoke web design services page. We focus on providing websites tailored to your needs.",
+          "text": "WEB DESIGN FOR CREATIVES AND ENTREPRENEURS<br>Check out our bespoke web design services page. We focus on providing websites tailored to your needs. View our portfolio by clicking below and contact us for more information.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"WebDesign.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>Unlock your business's potential</a> "
         },
         {
@@ -4341,7 +4341,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>17 Marcus House<br>Exeter<br>EX4 4JN<br><br><br>",
+          "text1": "<strong>Address</strong><br>17 Marcus House<br>New North Road<br>Exeter<br>EX4 4JN<br><br><br>",
           "text2": "<strong>Social</strong><ul><li><a href=\"https://twitter.com/ExeterTechnical\" target=\"_blank\">Twitter</a></li><li><a href=\"https://www.facebook.com/exetertechnicalsupport/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://www.google.co.uk/maps/place/Exeter+Technical+Support/@50.727159,-3.6741835,11z/data=!3m1!4b1!4m5!3m4!1s0x486da4385339d239:0xc0cbe1381654d9c7!8m2!3d50.7272433!4d-3.5341011\" target=\"_blank\">Google Reviews</a></li></ul>"
         },
         {
@@ -4451,7 +4451,7 @@
           },
           "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\"><b>support@exetertechnicalsupport.co.uk</b></a>",
           "title1": "<span style=\"font-weight: normal;\">Categories</span>",
-          "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
+          "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li><a href=\"FAQ.html\">FAQ</a></li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
           "text6": "",
           "form": {
             "title": "MESSAGE",
@@ -5099,8 +5099,8 @@
     },
     "MobileScreenRepair.html": {
       "settings": {
-        "title": "Mobile Screen Replacements",
-        "meta_descr": "iPhone and smartphone screen replacements"
+        "title": "Exeter Technical Support - Screen Repair - Local Computer Repair and Help",
+        "meta_descr": "Devon and Exeter Screen Repair and Help. Repairs, Services and Help provided for Devon - Including Exeter, Sidmouth, Exmouth, Woodbury, Topsham, Broadclyst and more"
       },
       "components": [
         {
@@ -5329,7 +5329,7 @@
           },
           "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\"><b>support@exetertechnicalsupport.co.uk</b></a>",
           "title1": "<span style=\"font-weight: normal;\">Categories</span>",
-          "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
+          "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li><a href=\"FAQ.html\">FAQ</a></li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
           "text6": "",
           "form": {
             "title": "MESSAGE",
@@ -5688,7 +5688,7 @@
           },
           "text4": "<a href=\"mailto:support@exetertechnicalsupport.co.uk\" target=\"_blank\"><b>support@exetertechnicalsupport.co.uk</b></a>",
           "title1": "<span style=\"font-weight: normal;\">Categories</span>",
-          "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li>Store</li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
+          "text5": "<p></p><li><a href=\"Terms.html\">Terms and Conditions</a></li><li><a href=\"news.html\">News and Advice</a></li><li><a href=\"FAQ.html\">FAQ</a></li><li><a href=\"Reviews.html\">Testimonials</a></li><br><br><p></p>",
           "text6": "",
           "form": {
             "title": "MESSAGE",
