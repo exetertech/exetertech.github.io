@@ -2,4 +2,4 @@ User-Agent: *
 Disallow: 
 Allow: /index.html
 
-Sitemap: http://www.exetertechnicalsupport.co.uk/index.html
+Sitemap: http://www.exetertechnicalsupport.co.uk/sitemap.xml
