@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ETS, Google drive",
-    "currentPage": "index.html",
+    "currentPage": "WebDesign.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 158,
+    "uniqCompNum": 162,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/ets-logo2-128x128.png",
     "noImageResize": "",
@@ -2432,14 +2432,67 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-4g",
+          "_params": {
+            "imageSize": "53",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Why You Should Consider Not Using Antivirus Programs",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "content2",
-          "_anchor": "content2-3e",
+          "_anchor": "content2-4f",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote>Coming soon...</blockquote>"
+          "text": "<blockquote>Antivirus programmes have been around for a while now and are supposed to protect your computer from threats. In theory this is a great idea and it can flag up viruses and trojans but at what cost?</blockquote><blockquote><br></blockquote><blockquote>At ETS we have seen antivirus programmes often causing more issues than they solve. Common side affects of an antivirus programme can include; intermittent/complete loss of internet connectivity, other 3rd party programmes not working as they should and a general sluggish speed of doing anything, as antivirus programmes can often run in the background and consume a surprising amount of processing power.</blockquote><blockquote><br></blockquote><blockquote>Technology news outlet Ars Technica did a brilliant piece on this exact issue a whilst back. At ETS we feel it continues to be a relevant issue and one that will continue for the foreseeable future, for as long as computer manufacturers strike deals with antivirus companies and electronics retailers.</blockquote><blockquote><br></blockquote><blockquote>This isn’t just obscure companies that are the culprit here, these are major antivirus manufacturers. Even the eponymous McAfee antivirus software often causes Wi-Fi connectivity issues and is often difficult to uninstall. For help uninstalling McAfee we have supplied some links to the McAfee uninstaller here.</blockquote><blockquote><br></blockquote><blockquote>The first thing you should do after setting up your computer is check for any preinstalled antivirus programmes and remove them.&nbsp;</blockquote><blockquote><br></blockquote><blockquote>The solution? If your using a Windows PC, it’s Windows Defender. It’s not perfect (nothing is) and of course is no substitute for vigilance and a healthy dose of scepticism but it’s one of the best and by far the most convenient options available.</blockquote><blockquote><br></blockquote><blockquote>a) It’s made by Microsoft for Windows- thus less conflicts with the system.</blockquote><blockquote><br></blockquote><blockquote>b) Totally free. Yep thats right, no subscription fees or purchase fees.</blockquote><blockquote><br></blockquote><blockquote>c) It’s already there. All you need to do is uninstall any antivirus thats already there.</blockquote><blockquote><br></blockquote><blockquote>Beware the preinstalled antivirus</blockquote><blockquote><br></blockquote><blockquote>Even if an antivirus is not active, just being on the system can be problematic. The first thing you should do after setting up a new computer is removing any 3rd party antivirus. This reduces the chance of any issues and allows windows defender to be activated.</blockquote><blockquote><br></blockquote><blockquote>Nothings perfect</blockquote><blockquote><br></blockquote><blockquote>Nothing is going to be an absolute solution and it’s good to take precautions to ensure you don’t get viruses.</blockquote><blockquote><br></blockquote><blockquote>If your going to run antivirus, use one, only one!</blockquote><blockquote><br></blockquote><blockquote>Using more than one antivirus can cause a myriad of issues. If you have to use one, make sure that you don’t have any others that could conflict. Windows Defender will usually automatically deactivate if another antivirus is installed.</blockquote><blockquote><br></blockquote><blockquote>An exception is Malwarebytes &amp; Windows Defender. Malwarebytes is aimed more towards stopping malware than viruses. The way Malwarebytes is coded allows it to run alongside Windows Defender without an issue in most cases.&nbsp;</blockquote><blockquote><br></blockquote><blockquote>Many popular antivirus programmes have security flaws</blockquote><blockquote><br></blockquote><blockquote>Antivirus programmes often have flaws of their own, if these are exploited it can be a larger surface area to attack for hackers and a potential way in.</blockquote><blockquote><br></blockquote><blockquote>Mac users</blockquote><blockquote><br></blockquote><blockquote>Apple products have a built in firewall but no built in antivirus. Overall Mac’s are not targeted as much as Window’s computers, but if you decide to get an antivirus/anti malware programme, Sophos and Malwarebytes tend to work well on most Apple computers as a precautionary measure.</blockquote><blockquote><br></blockquote><blockquote>- Aaron</blockquote><blockquote><br></blockquote><blockquote>*This article is solely the opinion of the author and a reflection of the experiences of ETS. We are in no way affiliated or endorsed by Microsoft, Malwarebytes or Arstechnica.&nbsp;</blockquote>"
         },
         {
           "_tags": [
@@ -4733,74 +4786,30 @@
           "caption": "<p><span style=\"line-height: 1.5;\">At ETS we offer bespoke website design services, tailor made to suit your needs.&nbsp;</span><br></p><p>Whether you are a small business owner or an aspiring entrepreneur,  websites are essential in the digital age and are a great way to reach new customers.</p><p><span style=\"line-height: 1.5;\">Our prices start from £160 and include yearly hosting costs for the first 3 years, platform costs and a responsive website that will work well on any device and become valuable reflection of your branding. We can also integrate e-commerce shops, client log in pages and Mailchimp e-mail signup forms.</span></p><p><span style=\"line-height: 1.5;\">From parallax scrolling to video Backrounds we've got it covered.</span></p><p><span style=\"line-height: 1.5;\">Examples of previous websites designed by us can be found at the top of this page.  At the moment we are mostly designing using custom coding with platforms such as WordPress, Format and Squarespace.</span><br></p><p><span style=\"line-height: 1.5;\">We also offer additional services that can be brought into a package deal, these include copywriting and SEO optimisation.</span><br></p><p><span style=\"line-height: 1.5;\">Drop us an e-mail to arrange for a custom quote or consultation meeting: support@exetertechnicalsupport.co.uk</span><br></p>"
         },
         {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#000"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-36",
+          "_name": "image2",
+          "_anchor": "image2-4h",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
           },
-          "title": "CUSTOM THEMES - COMING SOON..",
-          "text": "<p>ETS offers custom templates, such as the 1st iteration of our own website. In need of a new site? We can get you set up with one of our templates and rebrand it so that's it's ready to use for your own company</p><p><br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#000"
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=CTbfmfkSo_0",
+              "autoplay": false,
+              "loop": false,
+              "active": true
             }
           },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-3v",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#2969b0",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": true
-          },
-          "title": "LANDING &amp; LEAD PAGES- COMING SOON",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"
+          "text": "Mobile and Tablet friendly Websites"
         },
         {
           "_tags": [
