@@ -4242,7 +4242,7 @@
           },
           "title4": "Viruses/Malware",
           "subtitle4": "Repair, Removal and Advice",
-          "caption4": "We understand how vital your personal information is, especially when relying on a computer for work or business. Our engineers provide a repair service to remove malware/viruses and to prevent possible future infections. If you are using your computer on the internet, it is important to be well protected.<br><br><br><br>",
+          "caption4": "We understand how vital your personal information is, especially when relying on a computer for work or business. Our engineers provide a repair service to remove malware/viruses and to prevent possible future infections. If you are using your computer on the internet, it is important to be well protected.<br><br><br>",
           "button4": "<a data-app-btn=\"true\" href=\"Services.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-protect mbr-iconfont mbr-iconfont-btn\"></span>MORE</a>",
           "media5": {
             "image": {
@@ -4274,6 +4274,13 @@
             "Theme"
           ],
           "_name": "slider3",
+          "_styles": {
+            "P": {
+              "color": "#28324e",
+              "text-align": "center",
+              "font-size": "16px"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": "1",
@@ -4328,14 +4335,7 @@
             "showBullets": false
           },
           "_anchor": "slider3-4k",
-          "articleLayout": false,
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "text-align": "center",
-              "font-size": "16px"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_styles": {
@@ -4409,8 +4409,22 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Exeter Technical Support</strong><br>Follow us for technology news, special offers and repair advice.<br>We regularly offer discounts on services such as screen repairs, computer support and PC installations.<br><br>",
-          "text2": "<strong>Social&nbsp;</strong><ul><li><a href=\"https://twitter.com/ExeterTechnical\" target=\"_blank\">Twitter</a></li><li><a href=\"https://www.facebook.com/exetertechnicalsupport/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://www.google.co.uk/maps/place/Exeter+Technical+Support/@50.727159,-3.6741835,11z/data=!3m1!4b1!4m5!3m4!1s0x486da4385339d239:0xc0cbe1381654d9c7!8m2!3d50.7272433!4d-3.5341011\" target=\"_blank\">Google Reviews</a></li></ul>"
+          "text1": "<b>Exeter Technical Support</b><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br>Follow us for technology news, special offers and repair advice.<span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span>We regularly offer discounts on services such as screen repairs, computer support and PC installations.<br><br>",
+          "text2": "<strong>Social&nbsp;</strong><ul><li><a href=\"https://twitter.com/ExeterTechnical\" target=\"_blank\">Twitter</a></li><li><a href=\"https://www.facebook.com/exetertechnicalsupport/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://www.google.co.uk/maps/place/Exeter+Technical+Support/@50.727159,-3.6741835,11z/data=!3m1!4b1!4m5!3m4!1s0x486da4385339d239:0xc0cbe1381654d9c7!8m2!3d50.7272433!4d-3.5341011\" target=\"_blank\">Google Reviews</a></li></ul>",
+          "_styles": {
+            "SPAN": {
+              "color": "#7c7c7c",
+              "font-size": "16px"
+            },
+            "STRONG": {
+              "font-size": "16px",
+              "color": "#ffffff"
+            },
+            "P": {
+              "font-size": "16px",
+              "color": "#efefef"
+            }
+          }
         },
         {
           "_tags": [
@@ -5242,7 +5256,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-streamjar mbr-iconfont mbr-iconfont-btn\"></span>TIP JAR / COFFEE &amp; PIZZA FUND</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-streamjar mbr-iconfont mbr-iconfont-btn\"></span>TIP JAR / COFFEE &amp; PIZZA FUND</a>",
           "text": "If you would like to leave a tip, firstly thankyou! There is a button to the right where a secure Paypal payment can be made to our tip jar which helps us keep the lights on and ensures our coffee and pizza supply is well stocked! :)",
           "title": ""
         },

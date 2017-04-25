@@ -1433,7 +1433,7 @@ h6,
   background-color: #2e2e2e;
 }
 #slider3-4k P {
-  color: #000000;
+  color: #28324e;
   text-align: center;
   font-size: 16px;
 }
@@ -1446,6 +1446,18 @@ h6,
 }
 #form2-1v .btn {
   font-size: 12px;
+}
+#contacts2-8 SPAN {
+  color: #7c7c7c;
+  font-size: 16px;
+}
+#contacts2-8 STRONG {
+  font-size: 16px;
+  color: #ffffff;
+}
+#contacts2-8 P {
+  font-size: 16px;
+  color: #efefef;
 }
 #contacts3-b .list-group-text {
   font-family: 'Lato', sans-serif;
