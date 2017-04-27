@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 
 
 
@@ -1355,6 +1356,7 @@ h6,
 
 
 
+
 #ext_menu-r .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1436,6 +1438,11 @@ h6,
   color: #28324e;
   text-align: center;
   font-size: 16px;
+}
+#slider3-4k H2 {
+  color: #000000;
+  text-align: left;
+  font-family: 'Indie Flower', cursive;
 }
 #form2-1v .mbr-section-title {
   color: #f5f5f5;

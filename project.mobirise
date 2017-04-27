@@ -23,7 +23,7 @@
     "versionFirst": "3.10.5",
     "uniqCompNum": 165,
     "versionPublish": "3.11.1",
-    "favicon": "@PROJECT_PATH@/assets/images/ets-logo2-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-shield-128x128.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -4242,7 +4242,7 @@
           },
           "title4": "Viruses/Malware",
           "subtitle4": "Repair, Removal and Advice",
-          "caption4": "We understand how vital your personal information is, especially when relying on a computer for work or business. Our engineers provide a repair service to remove malware/viruses and to prevent possible future infections. If you are using your computer on the internet, it is important to be well protected.<br><br><br>",
+          "caption4": "We understand how vital your personal information is, especially when relying on a computer for work or business. Our engineers provide a repair service to remove malware/viruses and to prevent possible future infections. If you are using your computer on the internet, it is important to be well protected.<br><br><br><br>",
           "button4": "<a data-app-btn=\"true\" href=\"Services.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-protect mbr-iconfont mbr-iconfont-btn\"></span>MORE</a>",
           "media5": {
             "image": {
@@ -4279,6 +4279,12 @@
               "color": "#28324e",
               "text-align": "center",
               "font-size": "16px"
+            },
+            "H2": {
+              "color": "#000000",
+              "text-align": "left",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             }
           },
           "_params": {
@@ -4288,8 +4294,8 @@
             "timeout": "7",
             "slides": [
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/lcrshelvet-2000x278.png",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/quotebground-3-2000x375.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -4297,27 +4303,27 @@
                 "showTitle": false,
                 "title": "IMAGE SLIDER",
                 "showText": true,
-                "text": "<br>\"Thank you to Exeter Technical Support for their excellent service. This is the second time I've used them for computer problems, the latest being that my monitor was failing to respond. ETS arrived promptly, were courteous and most importantly, fixed my monitor successfully.\" ",
+                "text": "<span style=\"line-height: 1.5;\">Thank you to Exeter Technical Support for their excellent service. This is the second time I've used them for computer problems, the latest being that my monitor was failing to respond. ETS arrived promptly, were courteous and most importantly, fixed my monitor successfully.\"</span><br>Mrs K. A. (Sidmouth)<br> ",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/lcrshelvet-2000x278.png",
+                "image": "@PROJECT_PATH@/assets/images/quotebground-3-2000x375.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
                 "contentAlign": "center",
                 "showTitle": false,
-                "title": "BACKGROUND VIDEO",
+                "title": "\"\"",
                 "showText": true,
-                "text": "<br>\"Very professional, quick,efficient and thorough. My scanner and printer glitches were sorted out in a jiffy, plus useful tidy-up of unneeded apps on my desktop, which were slowing everything down. Many thanks.\" ",
+                "text": "<span style=\"line-height: 1.5;\">Very professional, quick,efficient and thorough. My scanner and printer glitches were sorted out in a jiffy, plus useful tidy-up of unneeded apps on my desktop, which were slowing everything down. Many thanks.\"</span><br>Huw H. ( Exeter)<br> ",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/lcrshelvet-2000x278.png",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/quotebground-3-2000x375.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -4325,7 +4331,7 @@
                 "showTitle": false,
                 "title": "BOOTSTRAP SLIDER",
                 "showText": true,
-                "text": "<br>\"For some time now I have tried to find engineers with the skill to carry out the work. I was very lucky to find Exeter Technical Support who carried out the work in a very efficient manner. Not only did they come to my home but they provided me with a price before before starting work.I have no hesitation recommending Dan and his team for any future work.\"",
+                "text": "<span style=\"line-height: 1.5;\">For some time now I have tried to find engineers with the skill to carry out the work. I was very lucky to find Exeter Technical Support who carried out the work in a very efficient manner. Not only did they come to my home but they provided me with a price before before starting work.I have no hesitation recommending Dan and his team for any future work.\"</span><br>Tony T. (Sidmouth)<br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
@@ -4390,6 +4396,20 @@
             "Theme"
           ],
           "_name": "contacts2",
+          "_styles": {
+            "SPAN": {
+              "color": "#7c7c7c",
+              "font-size": "16px"
+            },
+            "STRONG": {
+              "font-size": "16px",
+              "color": "#ffffff"
+            },
+            "P": {
+              "font-size": "16px",
+              "color": "#efefef"
+            }
+          },
           "_anchor": "contacts2-8",
           "_params": {
             "paddingTop": "3",
@@ -4410,21 +4430,7 @@
             }
           },
           "text1": "<b>Exeter Technical Support</b><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br>Follow us for technology news, special offers and repair advice.<span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span>We regularly offer discounts on services such as screen repairs, computer support and PC installations.<br><br>",
-          "text2": "<strong>Social&nbsp;</strong><ul><li><a href=\"https://twitter.com/ExeterTechnical\" target=\"_blank\">Twitter</a></li><li><a href=\"https://www.facebook.com/exetertechnicalsupport/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://www.google.co.uk/maps/place/Exeter+Technical+Support/@50.727159,-3.6741835,11z/data=!3m1!4b1!4m5!3m4!1s0x486da4385339d239:0xc0cbe1381654d9c7!8m2!3d50.7272433!4d-3.5341011\" target=\"_blank\">Google Reviews</a></li></ul>",
-          "_styles": {
-            "SPAN": {
-              "color": "#7c7c7c",
-              "font-size": "16px"
-            },
-            "STRONG": {
-              "font-size": "16px",
-              "color": "#ffffff"
-            },
-            "P": {
-              "font-size": "16px",
-              "color": "#efefef"
-            }
-          }
+          "text2": "<strong>Social&nbsp;</strong><ul><li><a href=\"https://twitter.com/ExeterTechnical\" target=\"_blank\">Twitter</a></li><li><a href=\"https://www.facebook.com/exetertechnicalsupport/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://www.google.co.uk/maps/place/Exeter+Technical+Support/@50.727159,-3.6741835,11z/data=!3m1!4b1!4m5!3m4!1s0x486da4385339d239:0xc0cbe1381654d9c7!8m2!3d50.7272433!4d-3.5341011\" target=\"_blank\">Google Reviews</a></li></ul>"
         },
         {
           "_tags": [
