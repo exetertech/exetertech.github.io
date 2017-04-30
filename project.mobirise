@@ -4295,7 +4295,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/quotebground-3-2000x375.png",
+                "image": "@PROJECT_PATH@/assets/images/quotebgroundblue-4-2000x375.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -4303,13 +4303,13 @@
                 "showTitle": false,
                 "title": "IMAGE SLIDER",
                 "showText": true,
-                "text": "<span style=\"line-height: 1.5;\">Thank you to Exeter Technical Support for their excellent service. This is the second time I've used them for computer problems, the latest being that my monitor was failing to respond. ETS arrived promptly, were courteous and most importantly, fixed my monitor successfully.\"</span><br>Mrs K. A. (Sidmouth)<br> ",
+                "text": "<span style=\"line-height: 1.5;\">Thank you to Exeter Technical Support for their excellent service. This is the second time I've used them for computer problems, the latest being that my monitor was failing to respond. ETS arrived promptly, were courteous and most importantly, fixed my monitor successfully.</span><br>Mrs K. A. (Sidmouth)<br> ",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/quotebground-3-2000x375.png",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/quotebgroundblue-4-2000x375.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -4317,13 +4317,13 @@
                 "showTitle": false,
                 "title": "\"\"",
                 "showText": true,
-                "text": "<span style=\"line-height: 1.5;\">Very professional, quick,efficient and thorough. My scanner and printer glitches were sorted out in a jiffy, plus useful tidy-up of unneeded apps on my desktop, which were slowing everything down. Many thanks.\"</span><br>Huw H. ( Exeter)<br> ",
+                "text": "<span style=\"line-height: 1.5;\">Very professional, quick,efficient and thorough. My scanner and printer glitches were sorted out in a jiffy, plus useful tidy-up of unneeded apps on my desktop, which were slowing everything down. Many thanks.</span><br>Huw H. ( Exeter)<br> ",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/quotebground-3-2000x375.png",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/quotebgroundblue-4-2000x375.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -4331,7 +4331,7 @@
                 "showTitle": false,
                 "title": "BOOTSTRAP SLIDER",
                 "showText": true,
-                "text": "<span style=\"line-height: 1.5;\">For some time now I have tried to find engineers with the skill to carry out the work. I was very lucky to find Exeter Technical Support who carried out the work in a very efficient manner. Not only did they come to my home but they provided me with a price before before starting work.I have no hesitation recommending Dan and his team for any future work.\"</span><br>Tony T. (Sidmouth)<br>",
+                "text": "<span style=\"line-height: 1.5;\">For some time now I have tried to find engineers with the skill to carry out the work. I was very lucky to find Exeter Technical Support who carried out the work in a very efficient manner. Not only did they come to my home but they provided me with a price before before starting work.I have no hesitation recommending Dan and his team for any future work.</span><br>Tony T. (Sidmouth)<br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
@@ -4389,7 +4389,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>SUBSCRIBE ( We have a Zero Spam Policy)</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>SUBSCRIBE (We have a Zero Spam Policy)</a>"
         },
         {
           "_tags": [
