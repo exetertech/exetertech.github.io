@@ -1256,8 +1256,6 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   margin: 0; }
   .mbr-cards .card-text + .card-btn {
     padding-top: 1.375rem;
-	position:absolute;
-	  bottom:10;
 }
 .mbr-cards .card-title {
   margin-bottom: 0;
