@@ -1255,7 +1255,10 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 .mbr-cards .card-text {
   margin: 0; }
   .mbr-cards .card-text + .card-btn {
-    padding-top: 1.375rem; }
+    padding-top: 1.375rem;
+	position:absolute;
+	  bottom:10;
+}
 .mbr-cards .card-title {
   margin-bottom: 0;
   font-size: 1.25rem;
